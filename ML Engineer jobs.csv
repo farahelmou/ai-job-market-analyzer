@@ -1,0 +1,163 @@
+,job title,company,region,is remote?,is fresher?,skills required
+0,ML Engineer,LanceTech Solutions Pvt Ltd,Agra,No,No,Computer Vision
+1,ML Engineer,LanceTech Solutions Pvt Ltd,Agra,No,No,Computer Vision
+2,ML Engineer,Google,Bengaluru,No,No,"Deep Learning, Tensorflow"
+3,ML Engineer,PMAM Corporation,Marol,No,NA,
+4,ML Engineer,Mercedes-Benz Research and Development India...,Bengaluru,No,NA,"Computer Vision, Neural Network"
+5,ML Engineer,Ascendeum,Bengaluru,No,NA,
+6,ML Engineer,Lytx,India,No,NA,Computer Vision
+7,ML Engineer,Skit.ai,Bengaluru,No,NA,
+8,ML Engineer,Aidaptive,Remote in India,Yes,No,"Deep Learning, Tensorflow, Deployment"
+9,ML Engineer,CodiniX,Remote in Noida,Yes,NA,
+10,ML Engineer,SatSure Analytics India,Bengaluru,No,NA,Ai
+11,ML Engineer,Level AI,Remote in India,Yes,NA,"Ai, Deployment"
+12,ML Engineer,Accenture,Hyderabad,No,NA,"Deep Learning, Ai"
+13,ML Engineer,Mangtas,Hyderabad,No,NA,"Python, Deployment"
+14,ML Engineer,SISL Infotech,India,No,No,
+15,ML Engineer,Intercontinental Exchange,Remote in Hyderabad,Yes,NA,"Excel, Ai, Neural Network"
+16,ML Engineer,OptiSol,Chennai,No,NA,"Python, Tensorflow, Pytorch"
+17,ML Engineer,Founding Teams,Remote,Yes,No,
+18,ML Engineer,Kotai Electronics Pvt Ltd,Kolkata,No,No,Deployment
+19,ML Engineer,Zscaler,Bengaluru,No,No,"Tensorflow, Pytorch"
+20,ML Engineer,Predictive Research,Bengaluru,No,NA,"Big Data, Ai, Neural Network"
+21,ML Engineer,HIRINGNINJA,Bengaluru,No,NA,Ai
+22,ML Engineer,d-Matrix,Remote,Yes,NA,"Deep Learning, Pytorch"
+23,ML Engineer,DentalDost,Pune,No,No,
+24,ML Engineer,IDfy,Mumbai,No,No,Deep Learning
+25,ML Engineer,Verizon,Remote in Chennai,Yes,NA,Deployment
+26,ML Engineer,Somnetics,Kolkata,No,NA,"Deep Learning, Ai, Neural Network"
+27,ML Engineer,Tekolutions.ai,Mumbai,No,NA,
+28,ML Engineer,Zycus,Pune,No,NA,Ai
+29,ML Engineer,Attain.ai,Remote,Yes,NA,
+30,ML Engineer,Anantadrishti Technologies,Lucknow,No,No,"Deep Learning, Computer Vision"
+31,ML Engineer,ixigo,Gurgaon,No,NA,"Deep Learning, Nlp"
+32,ML Engineer,AssetOne,Pune,No,No,"Stat, Deployment"
+33,ML Engineer,Tredence,India,No,NA,
+34,ML Engineer,Client of Wish-WAS,Bengaluru,No,NA,
+35,ML Engineer,Helius Technologies,India,No,NA,Ai
+36,ML Engineer,ICS Consultancy Services,Hyderabad,No,NA,
+37,ML Engineer,Capgemini,Noida,No,NA,Deployment
+38,ML Engineer,Zuma,Bengaluru,No,NA,"Python, Tensorflow, Pytorch"
+39,ML Engineer,Adobe,Noida,No,NA,Deep Learning
+40,ML Engineer,DeepEdge,Hyderabad,No,No,
+41,ML Engineer,Pattern Effects Labs,Bengaluru,No,NA,"Big Data, Ai"
+42,ML Engineer,Midas Fintech Solutions Private Limited,Dadar,No,No,Deployment
+43,ML Engineer,Pattern,Baner,No,NA,Ai
+44,ML Engineer,Google,Bengaluru,No,NA,
+45,ML Engineer,IDfy,Mumbai,No,NA,
+46,ML Engineer,Minna Technologies,Hybrid remote in Bengaluru,Yes,No,Ai
+47,ML Engineer,SatSure Analytics India,Bengaluru,No,No,Deep Learning
+48,ML Engineer,Eagle Eye Networks Inc,Bengaluru,No,No,"Ai, Neural Network"
+49,ML Engineer,Mindkosh Technologies,Delhi,No,NA,Ai
+50,ML Engineer,MariApps Marine Solutions,Kochi,No,No," Sql , Excel"
+51,ML Engineer,Mercedes-Benz Research and Development India...,Bengaluru,No,NA,Neural Network
+52,ML Engineer,Netradyne India,Bengaluru,No,NA,Ai
+53,ML Engineer,Luein Analytics,Remote,Yes,NA,Ai
+54,ML Engineer,Samyak Infotech,Ahmedabad,No,NA,"Deep Learning, Tensorflow, Pytorch, Stat, Nlp"
+55,ML Engineer,Harman International,Bengaluru,No,NA,
+56,ML Engineer,IDENISYSS SOFTWARE SOLUTIONS PVT LTD,Hyderabad,No,NA,
+57,ML Engineer,Vira Technocrats,Jaipur,No,No,Deep Learning
+58,ML Engineer,True Data Software,Remote in Pune,Yes,No,
+59,ML Engineer,Informatica,Bengaluru,No,NA,
+60,ML Engineer,Pixis,Bengaluru,No,NA,Ai
+61,ML Engineer,Megdap Innovation Labs,Pune,No,No,"Stat, Nlp"
+62,ML Engineer,Aera Technology,Pune,No,No,
+63,ML Engineer,Outbrain,New Delhi,No,No,Ai
+64,ML Engineer,Ceremorphic,Hyderabad,No,NA,Deep Learning
+65,ML Engineer,TAC Security,Bengaluru,No,NA,
+66,ML Engineer,UniConverge Technologies Pvt. Ltd.,Gautam Budh Nagar,No,NA,Ai
+67,ML Engineer,Agiloft,Remote in India,Yes,No,Deployment
+68,ML Engineer,Virtusa,Hybrid remote in Chennai,Yes,NA,
+69,ML Engineer,Agiloft,Remote in India,Yes,No,Deployment
+70,ML Engineer,Virtusa,Hybrid remote in Chennai,Yes,NA,
+71,ML Engineer,Ceremorphic,Hyderabad,No,No,"Tensorflow, Pytorch"
+72,ML Engineer,Trask,Bengaluru,No,No,
+73,ML Engineer,Cientra Techsolution,Bengaluru,No,No,"Stat, Excel"
+74,ML Engineer,Pinnacle Consultz,Bengaluru,No,No,
+75,ML Engineer,NVIDIA,Pune,No,NA,
+76,ML Engineer,Kloudone,Remote in Chennai,Yes,NA,
+77,ML Engineer,Bastian Solutions,Bengaluru,No,No,"Stat, Neural Network"
+78,ML Engineer,Expandium,Chennai,No,NA,
+79,ML Engineer,OutSystems,Bengaluru,No,NA,Pytorch
+80,ML Engineer,W2S Solutions,Chennai,No,NA,"Deep Learning, Tensorflow, Nlp"
+81,ML Engineer,Viser Solutions,Mumbai,No,NA,
+82,ML Engineer,Cephas Consultancy,Bengaluru,No,NA,
+83,ML Engineer,EY,Kochi,No,NA,"Python, Ai"
+84,ML Engineer,MTAP Technologies,Gurgaon,No,No,
+85,ML Engineer,Siemens,Pune,No,No,
+86,ML Engineer,Anuview,Chennai,No,NA,
+87,ML Engineer,Careervira,Gurgaon,No,No,"Data Structure, Deployment"
+88,ML Engineer,VDiSTiE,Bengaluru,No,NA,
+89,ML Engineer,General Mills,Remote in Mumbai,Yes,NA,
+90,ML Engineer,Shri Vile Parle Kelavani Mandal,Mumbai,No,NA,Pytorch
+91,ML Engineer,Workday,Pune,No,No,
+92,ML Engineer,DeepEdge,Hyderabad,No,NA,Excel
+93,ML Engineer,SNDK Corp,Ahmedabad,No,No,"Tensorflow, Pytorch"
+94,ML Engineer,JForce Solutions,Mumbai,No,NA,"Pytorch, Ai"
+95,ML Engineer,mobio solutions,Remote,Yes,No,
+96,ML Engineer,ShyftLabs,Remote in Hyderabad,Yes,NA,
+97,ML Engineer,Avesha,Bengaluru,No,No,
+98,ML Engineer,PayPal,Bengaluru,No,NA,Stat
+99,ML Engineer,Spritle Software,Chennai,No,NA,
+100,ML Engineer,IIE Network,Bengaluru,No,NA,Deployment
+101,ML Engineer,Accenture,Hyderabad,No,NA,"Deep Learning, Ai"
+102,ML Engineer,Galytix,Gurgaon,No,No,
+103,ML Engineer,OutSystems,Bengaluru,No,No,Pytorch
+104,ML Engineer,"TRC Companies, Inc.",Remote in Hyderabad,Yes,NA,"Deep Learning, Ai"
+105,ML Engineer,SISL Infotech,India,No,No,
+106,ML Engineer,Ideapoke,Bengaluru,No,NA,Python
+107,ML Engineer,Corporate Steps,India,No,No,
+108,ML Engineer,Nuacem AI,Hyderabad,No,No,Deep Learning
+109,ML Engineer,Careers at Tide,Remote in Bengaluru,Yes,NA,Deployment
+110,ML Engineer,JForce Solutions,Vile Parle,No,NA,Pytorch
+111,ML Engineer,CropData Technology,Nagpur,No,NA,"Deep Learning, Stat, Ai"
+112,ML Engineer,Level AI,Remote in India,Yes,No,"Deep Learning, Deployment"
+113,ML Engineer,MNJ Software,Remote,Yes,No,
+114,ML Engineer,ITC Infotech India Ltd,Bengaluru,No,NA,Stat
+115,ML Engineer,Phenom People,Hyderabad,No,NA,
+116,ML Engineer,Findem,Remote in Bengaluru,Yes,No,Deep Learning
+117,ML Engineer,Mobile Programming India Pvt Ltd,Pune,No,No,Ai
+118,ML Engineer,Dell Technologies,Hybrid remote in Bengaluru,Yes,No,"Tensorflow, Pytorch, Ai"
+119,ML Engineer,Qualcomm,Bengaluru,No,No,Ai
+120,ML Engineer,Pravaig,Bengaluru,No,NA,"Computer Vision, Ai"
+121,ML Engineer,TechStep,Hadapsar,No,NA,Stat
+122,ML Engineer,Zessta,Hyderabad,No,NA,Deep Learning
+123,ML Engineer,IBM,Bengaluru,No,No,"Tensorflow, Pytorch"
+124,ML Engineer,Atlas Systems,Bengaluru,No,No,Deep Learning
+125,ML Engineer,AIT Global India,India,No,NA,"Ai, Deployment"
+126,ML Engineer,"Epiq Systems, Inc.",Hyderabad,No,NA,
+127,ML Engineer,Caminosoft AI,Remote,Yes,NA,
+128,ML Engineer,EY,Thiruvananthapuram,No,No,Deployment
+129,ML Engineer,Pype,Bengaluru,No,NA,Stat
+130,ML Engineer,Neilsoft,Pune,No,NA,Ai
+131,ML Engineer,Flexday,Hyderabad,No,NA,
+132,ML Engineer,"View, Inc.",Chennai,No,No,Pytorch
+133,ML Engineer,Dell Technologies,Hybrid remote in Bengaluru,Yes,NA,"Python, Ai"
+134,ML Engineer,DeepEdge,Hyderabad,No,NA,Ai
+135,ML Engineer,AGEYE Technologies,Bengaluru,No,No,"Deep Learning, Ai"
+136,ML Engineer,Bosch Group,Bengaluru,No,NA,Ai
+137,ML Engineer,Adobe,Noida,No,NA,
+138,ML Engineer,Swaayatt Robots,Bhopal,No,NA,
+139,ML Engineer,4CRisk.ai Software,Bengaluru,No,NA,Ai
+140,ML Engineer,VRemember Technologies,Mumbai,No,NA,"Ai, Nlp"
+141,ML Engineer,Sprinklr,Gurgaon,No,NA,Ai
+142,ML Engineer,Siemens Healthineers,Bengaluru,No,NA,
+143,ML Engineer,BizAcuity,India,No,No,"Deep Learning, Neural Network"
+144,ML Engineer,Akscellence Info Solutions,New Delhi,No,NA,"Python, Nlp"
+145,ML Engineer,Siemens Digital Industries Software,Pune,No,No,
+146,ML Engineer,Siemens Digital Industries Software,Pune,No,No,
+147,ML Engineer,Apple,Hyderabad,No,No,"Deep Learning, Stat"
+148,ML Engineer,Apping Technology,Delhi,No,NA,
+149,ML Engineer,Crest Premier Infotech,Bengaluru,No,NA,"Python, Ai"
+150,ML Engineer,Proto,Remote in Delhi,Yes,No,Ai
+151,ML Engineer,Paxcom India,Hybrid remote in Delhi,Yes,NA,
+152,ML Engineer,RPA Infotech,Gurgaon,No,No,Stat
+153,ML Engineer,Machinellium Mavericks Projects and Consultants,Hyderabad,No,No,Stat
+154,ML Engineer,Okta,Bengaluru,No,NA,
+155,ML Engineer,Task Virtual,Kalighat,No,NA,
+156,ML Engineer,Wipro Limited,Hyderabad,No,NA,Ai
+157,ML Engineer,Suntec Web Services,New Delhi,No,NA,Data Structure
+158,ML Engineer,Neoastra,Bengaluru,No,NA,"Deep Learning, Computer Vision"
+159,ML Engineer,Dell Technologies,Hybrid remote in Bengaluru,Yes,NA,Deployment
+160,ML Engineer,Intuit,Bengaluru,No,NA,Ai
+161,ML Engineer,Telstra,Bengaluru,No,NA,

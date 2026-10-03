@@ -1,0 +1,667 @@
+,job title,company,region,skills required,is remote?,is fresher?
+0,Data analyst,BP Energy,Pune,,No,No
+1,Data analyst,Arcadis,Bengaluru,"Big Data, Database",No,No
+2,Data analyst,Scan Holdings Pvt. Limited,Delhi,,No,NA
+3,Data analyst,BOEING,Bengaluru,,No,NA
+4,Data analyst,Boston Consulting Group,New Delhi,,No,NA
+5,Data analyst,Colgate-Palmolive,Mumbai,"Big Data, Cloud",No,No
+6,Data analyst,IntouchCX,Hyderabad,Database,No,No
+7,Data analyst,Deloitte,Hyderabad,,No,NA
+8,Data analyst,Reupgrades,Remote,,Yes,NA
+9,Data analyst,Deloitte,Hyderabad,,No,NA
+10,Data analyst,Kudos India,India,,No,NA
+11,Data analyst,LARVOL,Remote,,Yes,NA
+12,Data analyst,Cargill,Bengaluru,,No,NA
+13,Data analyst,Siemens,Bengaluru,,No,NA
+14,Data analyst,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,NA
+15,Data analyst,EY,Kolkata,Excel,No,NA
+16,Data analyst,Myntra.com,Bengaluru,Stat,No,NA
+17,Data analyst,"Ryan, LLC",Remote in Hyderabad,,Yes,No
+18,Data analyst,UnitedHealthcare,Hyderabad, Sql ,No,NA
+19,Data analyst,Larsen & Toubro Limited,Chennai,,No,NA
+20,Data analyst,BNP Paribas,India," Sql , Database",No,NA
+21,Data analyst,JPMorgan Chase & Co,Bengaluru,,No,NA
+22,Data analyst,Bosch Group,Bengaluru,Database,No,No
+23,Data analyst,JPMorgan Chase & Co,Mumbai,,No,NA
+24,Data analyst,JPMorgan Chase & Co,Bengaluru,,No,NA
+25,Data analyst,JPMorgan Chase & Co,Bengaluru,Stat,No,NA
+26,Data analyst,Arise Virtual Solutions Inc.,Remote,Dashboard,Yes,NA
+27,Data analyst,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,NA
+28,Data analyst,Molex,Bengaluru,,No,NA
+29,Data analyst,Larsen & Toubro Limited,Kolkata,Etl,No,No
+30,Data analyst,Mercedes-Benz Research and Development India...,Bengaluru,Python,No,NA
+31,Data analyst,Statsman Services Pvt. Ltd.,Kolkata,,No,NA
+32,Data analyst,IBM,Bengaluru,,No,NA
+33,Data analyst,UltraViolet Cyber,Hyderabad,Dashboard,No,NA
+34,Data analyst,Flipkart,Bengaluru,"Data Mining, Dashboard",No,NA
+35,Data analyst,Siemens,Bengaluru,,No,NA
+36,Data analyst,KPMG,Bengaluru,,No,NA
+37,Data analyst,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,NA
+38,Data analyst,Salesforce,Hyderabad,,No,NA
+39,Data analyst,Deloitte,Hyderabad,,No,NA
+40,Data analyst,Unstop,New Delhi,,No,NA
+41,Data analyst,prwatech technologies,Bengaluru,,No,NA
+42,Data analyst,JPMorgan Chase & Co,Hyderabad,,No,NA
+43,Data analyst,TBot Techno Systems,Bengaluru,Database,No,No
+44,Data analyst,Dhwani Rural Information Systems,Gurgaon,,No,NA
+45,Data analyst,IQVIA,Bengaluru,,No,NA
+46,Data analyst,Kotak Securities,India,,No,NA
+47,Data analyst,Darshan Soft-Tech Pvt. Ltd.,Hyderabad,Excel,No,NA
+48,Data analyst,FedEx Express MEISA,Bengaluru,,No,NA
+49,Data analyst,Virtusa,Hybrid remote in Chennai,,Yes,No
+50,Data analyst,iamneo.ai,Coimbatore,,No,NA
+51,Data analyst,Accenture,Gurgaon,,No,NA
+52,Data analyst,Minna Technologies,Remote in Bengaluru,,Yes,NA
+53,Data analyst,JPMorgan Chase & Co,Bengaluru,,No,NA
+54,Data analyst,KPMG,Mumbai,Data Visualization,No,No
+55,Data analyst,Let's-Viz Technologies,Delhi,,No,NA
+56,Data analyst,Makknowledge India Pvt Ltd,Twenty-four Parganas District,Excel,No,NA
+57,Data analyst,Minna Technologies,Remote in Bengaluru,,Yes,NA
+58,Data analyst,HSBC,Kolkata,,No,NA
+59,Data analyst,Nityo Infotech,Pune,Data Visualization,No,NA
+60,Data analyst,SRM Technologies,Chennai,,No,No
+61,Data analyst,Stay Vista,Mumbai,,No,NA
+62,Data analyst,JPMorgan Chase & Co,Mumbai,Machine Learning,No,NA
+63,Data analyst,Tripmaza,Darjiling,Stat,No,NA
+64,Data analyst,Kloud9,India,,No,NA
+65,Data analyst,Criteo,Remote in Gurgaon,,Yes,NA
+66,Data analyst,UnitedHealthcare,Bengaluru,,No,NA
+67,Data analyst,JPMorgan Chase & Co,Hyderabad,,No,No
+68,Data analyst,Wipro Limited,Gurgaon,,No,NA
+69,Data analyst,Rudrateck Solution,Hybrid remote in Delhi,Database,Yes,NA
+70,Data analyst,Meltwater Group,Remote,"Data Visualization, Tableau",Yes,No
+71,Data analyst,Industries Helping Hands,Bhilai,,No,No
+72,Data analyst,Concentrix,Bengaluru,,No,No
+73,Data analyst,Vnaton,Bengaluru,Stat,No,NA
+74,Data analyst,PayPal,Hyderabad,,No,NA
+75,Data analyst,Mastercard,Pune,,No,NA
+76,Data analyst,Accenture,Bengaluru,"Dashboard, Tableau",No,NA
+77,Data analyst,PwC,Kolkata,,No,NA
+78,Data analyst,RightWave,Noida,,No,NA
+79,Data analyst,Scaler Academy,Bengaluru,Data Structure,No,NA
+80,Data analyst,Hewlett Packard Enterprise,Bengaluru,,No,NA
+81,Data analyst,Truecaller,Bengaluru,"Data Visualization, Stat",No,NA
+82,Data analyst,Rohan Motors Ltd,Dehra Dun,Excel,No,NA
+83,Data analyst,EPIC-INDIA,Bhubaneshwar,,No,NA
+84,Data analyst,Infor,Hyderabad,,No,NA
+85,Data analyst,Citi,Bengaluru,,No,NA
+86,Data analyst,MyYogaTeacher,Bengaluru,,No,No
+87,Data analyst,PwC,Kolkata,,No,NA
+88,Data analyst,General Mills,Mumbai,Data Mining,No,NA
+89,Data analyst,Hustlehub Tech Park,Bengaluru,Data Mining,No,NA
+90,Data analyst,Deutsche Bank,Mumbai,,No,No
+91,Data analyst,Bosch Group,Bengaluru,,No,NA
+92,Data analyst,Goldman Sachs,Hyderabad,"Python, Data Visualization, Tableau",No,NA
+93,Data analyst,Hyatt India Consultancy Private Limited,Delhi,,No,NA
+94,Data analyst,PwC,Kolkata,,No,NA
+95,Data analyst,Mastercard,Gurgaon,,No,NA
+96,Data analyst,Navalt,Kochi,"Python,  R ",No,NA
+97,Data analyst,JPMorgan Chase & Co,Mumbai,,No,NA
+98,Data analyst,JPMorgan Chase & Co,Bengaluru,,No,NA
+99,Data analyst,Dun & Bradstreet,Mumbai,,No,NA
+100,Data analyst,Vantage Circle,Guwahati,,No,NA
+101,Data analyst,Jithvar Consultancy Services Pvt. Ltd.,Lucknow,Data Visualization,No,No
+102,Data analyst,Angadi World Technologies,Bengaluru,,No,NA
+103,Data analyst,Axis My India,Mumbai,Data Structure,No,NA
+104,Data analyst,GXO Logistics,Mumbai,"Machine Learning, Data Mining, Database",No,No
+105,Data analyst,Barclays,Delhi,,No,No
+106,Data analyst,Expedia Group,Gurgaon,,No,No
+107,Data analyst,Vervenest technologies,Bengaluru,,No,NA
+108,Data analyst,Cybage,Pune," Sql , Big Data, Etl",No,No
+109,Data analyst,Medtronic,Nanakramguda,Excel,No,NA
+110,Data analyst,Galytix,Gurgaon,,No,NA
+111,Data analyst,MNR Solutions Private Limited,Kolkata,,No,NA
+112,Data analyst,SUPERDNA 3D LAB,Chandigarh,Database,No,NA
+113,Data analyst,JPMorgan Chase & Co,Mumbai,,No,No
+114,Data analyst,IndustryARC,Remote,,Yes,NA
+115,Data analyst,PiWheel,India,,No,No
+116,Data analyst,XenonStack,Mohali,,No,NA
+117,Data analyst,SearchUrCollege,Noida,"Data Mining, Database",No,NA
+118,Data analyst,Excellanto Ventures Pvt Ltd,Remote in Delhi,,Yes,NA
+119,Data analyst,VMware,Bengaluru,,No,NA
+120,Data analyst,KPMG,Hyderabad,,No,NA
+121,Data analyst,Recro,Bengaluru,"Python, Excel",No,No
+122,Data analyst,Bombay Play,Bengaluru,Stat,No,NA
+123,Data analyst,Biocube,Gurgaon,,No,No
+124,Data analyst,Thoucentric,Bengaluru,,No,No
+125,Data analyst,Mercedes-Benz Research and Development India...,Bengaluru,Big Data,No,NA
+126,Data analyst,KPMG,Gurgaon,,No,NA
+127,Data analyst,Wells Fargo,Bengaluru,,No,NA
+128,Data analyst,FedEx Express MEISA,Mumbai,,No,NA
+129,Data analyst,Oracle,India,Database,No,NA
+130,Data analyst,Accenture,Bengaluru,Data Visualization,No,NA
+131,Data analyst,S&P Global,Hyderabad,,No,NA
+132,Data analyst,EY,Thiruvananthapuram,"Data Structure, Etl",No,NA
+133,Data analyst,Accenture,Kolkata,,No,NA
+134,Data analyst,Aon Corporation,Gurgaon,Database,No,NA
+135,Data analyst,AceNgage Infoservices,Bengaluru,Data Mining,No,NA
+136,Data analyst,Akamai,Remote,,Yes,NA
+137,Data analyst,Xponent n,Bengaluru,,No,No
+138,Data analyst,Krome dispense pvt ltd,Jalandhar,Stat,No,NA
+139,Data analyst,GXO Logistics,Mumbai,"Machine Learning, Data Mining, Database",No,No
+140,Data analyst,"Magus Infotech India Pvt. Ltd.,",Navi Mumbai,"Python, Database",No,NA
+141,Data analyst,Uvation,Remote in Delhi,,Yes,NA
+142,Data analyst,Legalwiz,India,"Python, Data Visualization, Stat",No,NA
+143,Data analyst,Siemens,Bengaluru,,No,NA
+144,Data analyst,The Scalers,Bengaluru,,No,NA
+145,Data analyst,Wipro Limited,Pune,,No,NA
+146,Data analyst,Anika Technologies,India,,No,No
+147,Data analyst,Carrier,Hyderabad,,No,No
+148,Data analyst,Goldman Sachs,Hyderabad,Stat,No,No
+149,Data analyst,Genpact,Bengaluru,Excel,No,NA
+150,Data analyst,Chandigarh University,Mohali,,No,NA
+151,Data analyst,BSRI Solutions,Chennai,,No,NA
+152,Data analyst,Equipped,Noida,,No,NA
+153,Data analyst,Helius Technologies,India,Data Visualization,No,No
+154,Data analyst,NSIGHT Consulting Group Pvt Ltd,Remote in Gurgaon,,Yes,NA
+155,Data analyst,JPMorgan Chase & Co,Mumbai,,No,NA
+156,Data analyst,LNC Enterprises,Gurgaon,"Data Visualization, Stat",No,No
+157,Data analyst,CeX,Lower Parel,,No,NA
+158,Data analyst,LogisticsNow,Mumbai,,No,No
+159,Data analyst,Think Future Technologies,Remote in Gurgaon,,Yes,No
+160,Data analyst,nurture.farm,Bengaluru,Database,No,NA
+161,Data analyst,AppleTech,Vadodara,,No,NA
+162,Data analyst,Infor,Bengaluru,,No,NA
+163,Data analyst,Equifax,Mumbai,Etl,No,NA
+164,Data analyst,Escalent,Remote,Stat,Yes,NA
+165,Data analyst,TARGET,Bengaluru,,No,NA
+166,Data analyst,Ideas to Impacts Innovations,Maharashtra,"Python, Etl, Database",No,NA
+167,Data analyst,Group 8A,Remote in India,,Yes,NA
+168,Data analyst,HighLevel Inc.,Remote,"Data Visualization,  Sql , Dashboard",Yes,NA
+169,Data analyst,Orbio solutions,Calicut,"Python, Data Visualization,  Sql , Excel, Tableau",No,NA
+170,Data analyst,RPA Infotech,Gurgaon, Sql ,No,NA
+171,Data analyst,Athena,Remote,,Yes,NA
+172,Data analyst,Apple,Bengaluru,,No,NA
+173,Data analyst,General Mills,Mumbai,,No,No
+174,Data analyst,Datagaps Inc (Nanyata Software Solutions Pvt....,Remote,,Yes,NA
+175,Data analyst,DataEconomy,Gurgaon,,No,No
+176,Data analyst,Paychex IT Solutions India,Bengaluru,Database,No,NA
+177,Data analyst,Infosys,Pune,Tableau,No,NA
+178,Data analyst,Infineon Technologies,Bengaluru,,No,NA
+179,Data analyst,Knowledgetics Research,Gurgaon,,No,NA
+180,Data analyst,YuktaMedia,Pune, Sql ,No,No
+181,Data analyst,ABB,Bengaluru,,No,NA
+182,Data analyst,Amplework,Jaipur,,No,NA
+183,Data analyst,dharma.h,Dhakuria,,No,NA
+184,Data analyst,PwC,Kolkata,,No,NA
+185,Data analyst,JPMorgan Chase & Co,Bengaluru,,No,No
+186,Data analyst,Deutsche Bank,Jaipur,,No,No
+187,Data analyst,Software AG,Bengaluru,,No,NA
+188,Data analyst,ABB,Bengaluru,,No,No
+189,Data analyst,Netradyne,Bengaluru,,No,No
+190,Data analyst,Start.io,Bengaluru,,No,NA
+191,Data analyst,"Cytel, India",India,,No,NA
+192,Data analyst,Merkle,Pune,,No,NA
+193,Data analyst,FedEx Express MEISA,Mumbai,,No,NA
+194,Data analyst,Mordor Intelligence,Remote,Data Visualization,Yes,NA
+195,Data analyst,Auric search,Mumbai,,No,No
+196,Data analyst,CC Staffing International,Remote in Bengaluru,Data Visualization,Yes,NA
+197,Data analyst,Camsdata,Bengaluru,Python,No,No
+198,Data analyst,Ardem Incorporated,Remote in Lucknow,,Yes,NA
+199,Data analyst,Recruise India Consulting Pvt Ltd,Bengaluru,"Data Visualization, Excel",No,No
+200,Data analyst,Accenture,Bengaluru,,No,NA
+201,Data analyst,Harjai Computers Private Limited,Mumbai,Data Visualization,No,NA
+202,Data analyst,Vantage Circle,Guwahati,,No,NA
+203,Data analyst,Everest Fleet Pvt Ltd,Chennai,"Excel, Database",No,No
+204,Data analyst,Xpheno,Bengaluru,,No,NA
+205,Data analyst,Amol Technologies,Pune,,No,No
+206,Data analyst,Vizva Pvt Ltd,Ahmedabad,,No,NA
+207,Data analyst,Infosys,Pune,,No,NA
+208,Data analyst,Payatu,Remote in Pune,,Yes,NA
+209,Data analyst,E2E Infoware Management Services,Bengaluru,Big Data,No,NA
+210,Data analyst,JPMorgan Chase & Co,Mumbai,,No,NA
+211,Data analyst,Standard Chartered,Chennai,"Data Visualization,  Sql ",No,NA
+212,Data analyst,Helius Technologies,India,,No,NA
+213,Data analyst,NovoTree Minds Consulting,Bengaluru,Excel,No,NA
+214,Data analyst,BlackRock,Hybrid remote in Gurgaon,,Yes,NA
+215,Data analyst,Infoblox,Bengaluru,,No,NA
+216,Data analyst,Megara Infotech,Gurgaon,Excel,No,NA
+217,Data analyst,Smart Ship,Pune,,No,NA
+218,Data analyst,BBS,Gurgaon,,No,No
+219,Data analyst,Directi,Mumbai,,No,No
+220,Data analyst,Infosys,Hyderabad,,No,No
+221,Data analyst,GXO Logistics,Mumbai,,No,NA
+222,Data analyst,EY,India,,No,NA
+223,Data analyst,Creditas Solutions,Gurgaon,,No,NA
+224,Data analyst,XopunTech,Guwahati,,No,NA
+225,Data analyst,Pilgrim,Mumbai,,No,NA
+226,Data analyst,JPMorgan Chase & Co,Mumbai,,No,NA
+227,Data analyst,ABB,Bengaluru,,No,NA
+228,Data analyst,Deloitte,Hyderabad,,No,NA
+229,Data analyst,KPMG,Mumbai,,No,No
+230,Data analyst,Injazat,Remote in Chennai,,Yes,NA
+231,Data analyst,KUSHAL'S FASHION JEWELLERY,Bengaluru,"Data Visualization, Tableau",No,No
+232,Data analyst,Havas Group,Mumbai,"Data Structure, Database",No,NA
+233,Data analyst,MOLTRESS HOSPITALITY PRIVATE LIMITED,Chennai,,No,NA
+234,Data analyst,Accenture,Hyderabad,Dashboard,No,NA
+235,Data analyst,Parati,Remote in Haryana,,Yes,NA
+236,Data analyst,BT Group,Bengaluru," Sql , Etl",No,NA
+237,Data analyst,Dr.Reddy's,Hyderabad,Excel,No,No
+238,Data analyst,SAM Global University Bhopal,Bhopal,,No,No
+239,Data analyst,BP Energy,Hybrid remote in Pune,,Yes,NA
+240,Data analyst,Virtusa,Hybrid remote in Bengaluru,Big Data,Yes,No
+241,Data analyst,Nivoda,Mumbai,,No,NA
+242,Data analyst,BNC,Pune,,No,NA
+243,Data analyst,Moody's,Bengaluru,,No,NA
+244,Data analyst,Stats Perform,India,Machine Learning,No,NA
+245,Data analyst,Pluralsight,India,,No,NA
+246,Data analyst,Helius Technologies,India,"Data Visualization, Dashboard",No,No
+247,Data analyst,Proclink,Ahmedabad,"Python,  R ",No,No
+248,Data analyst,Bristol Myers Squibb,Remote in Hyderabad,,Yes,NA
+249,Data analyst,JPMorgan Chase & Co,Hyderabad,,No,No
+250,Data analyst,Unimrkt Research,Gurgaon,Database,No,NA
+251,Data analyst,predera,Hyderabad,Database,No,No
+252,Data analyst,YouGov,Hybrid remote in Mumbai,,Yes,No
+253,Data analyst,Koch Global Services,Bengaluru,Dashboard,No,NA
+254,Data analyst,Elsevier,Chennai,"Python, Stat",No,NA
+255,Data analyst,Tax Genie,Mumbai,Python,No,NA
+256,Data analyst,ZeroFOX,Bengaluru,,No,NA
+257,Data analyst,HP,Bengaluru,,No,NA
+258,Data analyst,HaystackAnalytics,Mumbai,,No,No
+259,Data analyst,iXie Gaming,Bengaluru,,No,NA
+260,Data analyst,SourceMash Technologies,Mohali,Powerbi,No,No
+261,Data analyst,HRD India,Kolkata,,No,NA
+262,Data analyst,Buzzworks,India,Data Mining,No,NA
+263,Data analyst,Deloitte,Bengaluru,,No,NA
+264,Data analyst,Husk Power Systems,Pune,Database,No,No
+265,Data analyst,PayU,Hybrid remote in Gurgaon,Python,Yes,NA
+266,Data analyst,WattSun,Ernakulam,Database,No,NA
+267,Data analyst,Insight Therapy Solutions,Remote in Mumbai,,Yes,NA
+268,Data analyst,Risk Management Solutions (RMS),Noida,,No,NA
+269,Data analyst,Moody's,Bengaluru,,No,NA
+270,Data analyst,Deloitte,Hyderabad," Sql , Etl",No,No
+271,Data analyst,iResearch Services,Hybrid remote in Pune,Excel,Yes,NA
+272,Data analyst,Airbus,Bengaluru,,No,NA
+273,Data analyst,twid,Bengaluru,,No,No
+274,Data analyst,Assetmonk,India,,No,NA
+275,Data analyst,Goldman Sachs,Bengaluru,,No,NA
+276,Data analyst,Cisco Systems,Bengaluru,,No,No
+277,Data analyst,The Modern Dimension,Bengaluru,,No,No
+278,Data analyst,Clarity Bio Systems,Powai,"Python, Machine Learning,  R , Stat",No,NA
+279,Data analyst,Cognext,Mumbai,Etl,No,NA
+280,Data analyst,Accenture,India,,No,NA
+281,Data analyst,Tata 1mg,Gurgaon,,No,NA
+282,Data analyst,BNP Paribas,Mumbai,,No,NA
+283,Data analyst,DAMS Pvt. Ltd. (eMedicoz),Noida,,No,No
+284,Data analyst,Arsh Biotech,India,,No,NA
+285,Data analyst,RealPage India,Hyderabad,,No,NA
+286,Data analyst,JPMorgan Chase & Co,Bengaluru,,No,NA
+287,Data analyst,REXMAN,Remote,,Yes,NA
+288,Data analyst,VB School,Chennai,"Python,  Sql , Database",No,NA
+289,Data analyst,Mercedes-Benz Research and Development India...,Bengaluru,,No,NA
+290,Data analyst,Gnani Innovations,Bengaluru,,No,No
+291,Data analyst,"CloudPlinth, Inc.",Warangal,Data Mining,No,No
+292,Data analyst,altbalaji,Mumbai," Sql ,  R , Tableau",No,No
+293,Data analyst,Fluid.Live Solutions Pvt Ltd,Remote in Pune,,Yes,NA
+294,Data analyst,Phenom People,Hyderabad,Stat,No,No
+295,Data analyst,BT Group,Bengaluru,,No,NA
+296,Data analyst,FabHotels,Gurgaon,"Python, Excel",No,No
+297,Data analyst,Deutsche Bank,Bengaluru,,No,NA
+298,Data analyst,Siemens,Bengaluru,,No,NA
+299,Data analyst,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,NA
+300,Data analyst,GXO Logistics,Mumbai,,No,NA
+301,Data analyst,BT,Bengaluru,,No,No
+302,Data analyst,EY,Gurgaon,Data Structure,No,NA
+303,Data analyst,Supply Wisdom,Remote,,Yes,NA
+304,Data analyst,Cargill,Gurgaon,,No,No
+305,Data analyst,Aptus Data LAbs,Bengaluru,,No,NA
+306,Data analyst,XenonStack,Mohali,"Data Visualization, Database",No,NA
+307,Data analyst,IBM,Pune,,No,NA
+308,Data analyst,SS Supply Chain Solutions,Bengaluru,,No,NA
+309,Data analyst,Food Memories,Delhi,Database,No,NA
+310,Data analyst,V-Align Technologies,Bengaluru,Stat,No,No
+311,Data analyst,SAP,Bengaluru,,No,NA
+312,Data analyst,Oracle,Noida,Cloud,No,NA
+313,Data analyst,Magic Infomedia,Delhi,,No,NA
+314,Data analyst,IBM,Bengaluru,,No,No
+315,Data analyst,Cashfree Payments,Bengaluru,,No,No
+316,Data analyst,Accenture,Mumbai,Cloud,No,NA
+317,Data analyst,Risk Management Solutions,Noida,,No,NA
+318,Data analyst,Wells Fargo,Hyderabad,,No,NA
+319,Data analyst,SSquad Global,Bengaluru,,No,NA
+320,Data analyst,HoonarTek,Mumbai,,No,No
+321,Data analyst,7N,Remote,Database,Yes,NA
+322,Data analyst,99Plus IT Solutions,Vadodara,Stat,No,No
+323,Data analyst,Certara,Secunderabad,Database,No,NA
+324,Data analyst,BridgeLoyalty,Mumbai,,No,NA
+325,Data analyst,4CRisk.ai Software,Bengaluru,,No,No
+326,Data analyst,Skyworks,Bengaluru,,No,NA
+327,Data analyst,SH Square Consultants,Bengaluru,"Etl, Excel",No,No
+328,Data analyst,AMBC,Hyderabad,,No,NA
+329,Data analyst,Bristol Myers Squibb,Hyderabad,,No,NA
+330,Data analyst,L.E.K. Consulting,Mumbai,,No,NA
+331,Data analyst,Skyislimit Technologies,Ernakulam,Python,No,NA
+332,Data analyst,Recruitment Smart,Hybrid remote in Ahmedabad,,Yes,NA
+333,Data analyst,Royal Global University,Guwahati,,No,NA
+334,Data analyst,JPMorgan Chase & Co,Mumbai,,No,NA
+335,Data analyst,Copperpod Digital,India,Dashboard,No,NA
+336,Data analyst,Risk Management Solutions (RMS),Noida,,No,NA
+337,Data analyst,Trane Technologies,Bengaluru,,No,NA
+338,Data analyst,Atlassian,Remote in Bengaluru,,Yes,NA
+339,Data analyst,Xpheno,Mumbai, Sql ,No,No
+340,Data analyst,S&P Global,Gurgaon,,No,NA
+341,Data analyst,Prescient Healthcare Group,Gurgaon,,No,NA
+342,Data analyst,Novisync,Remote in India,,Yes,NA
+343,Data analyst,Silver Touch Technologies Ltd.,Mumbai,"Data Structure, Database",No,NA
+344,Data analyst,HyreFox Consultants,Jaipur,Database,No,NA
+345,Data analyst,GyanTU,India,"Data Mining, Database",No,NA
+346,Data analyst,Micron,Gujarat,Cloud,No,No
+347,Data analyst,Mann Hospitality LLP,Bengaluru,,No,NA
+348,Data analyst,JPMorgan Chase & Co,Mumbai,,No,NA
+349,Data analyst,fluidonomics Solutions,Remote in Pune,,Yes,NA
+350,Data analyst,Goldman Sachs,Bengaluru,Big Data,No,NA
+351,Data analyst,Merilytics,Hyderabad,Big Data,No,NA
+352,Data analyst,JPMorgan Chase & Co,Bengaluru,,No,NA
+353,Data analyst,Accenture,Hyderabad,,No,NA
+354,Data analyst,Borek Solutions,Vadodara,"Stat, Excel",No,NA
+355,Data analyst,Lowe's,Bengaluru,,No,NA
+356,Data analyst,Innovature Software Labs,Kochi,Database,No,No
+357,Data analyst,Locus IT Services,Bengaluru,,No,NA
+358,Data analyst,Deloitte,Hyderabad,,No,NA
+359,Data analyst,Siemens Gamesa Renewable Energy,Bengaluru,,No,NA
+360,Data analyst,JLL,Gurgaon,,No,NA
+361,Data analyst,Gemini Exports,Mumbai,,No,No
+362,Data analyst,JPMorgan Chase & Co,Mumbai,Machine Learning,No,NA
+363,Data analyst,CBRE,Hyderabad,Data Structure,No,NA
+364,Data analyst,Cyient,Hyderabad,,No,NA
+365,Data analyst,Vonage,Remote in Bengaluru," Sql , Excel",Yes,No
+366,Data analyst,Decision Point,Gurgaon,,No,No
+367,Data analyst,iPrime Services,Noida,,No,NA
+368,Data analyst,Revvity,Remote in India,,Yes,No
+369,Data analyst,Hydro,Jaipur,"Data Visualization, Excel",No,NA
+370,Data analyst,Accenture,Bengaluru,,No,NA
+371,Data analyst,Niralee Technologies,Hyderabad,,No,No
+372,Data analyst,Ismile Technologies,Bengaluru,,No,No
+373,Data analyst,Scaler Academy,Bengaluru,,No,NA
+374,Data analyst,The Scalers,Bengaluru,,No,No
+375,Data analyst,Zensar Technologies,Pune,,No,NA
+376,Data analyst,LanceTech Solutions Pvt Ltd,Noida,,No,No
+377,Data analyst,OPALFORCE.COM,Bengaluru,,No,NA
+378,Data analyst,House of Shipping,Chennai,,No,NA
+379,Data analyst,Dell Technologies,Hybrid remote in Bengaluru,"Machine Learning, Stat",Yes,No
+380,Data analyst,Aarohiinfo fi management limited,Pune,,No,NA
+381,Data analyst,Nexware Technologies,Remote,Cloud,Yes,No
+382,Data analyst,Accenture,Bengaluru,,No,NA
+383,Data analyst,Nielsen,Remote in Mumbai,Database,Yes,NA
+384,Data analyst,Adobe,Noida,Big Data,No,NA
+385,Data analyst,GUS Education,Hyderabad,,No,No
+386,Data analyst,Trigya Innovations India Pvt. Ltd.,New Delhi,,No,NA
+387,Data analyst,Appriffy - Digital IT Hub Private Limited,Bengaluru,Excel,No,NA
+388,Data analyst,Secuodsoft Technologies pvt ltd,Bhubaneshwar,,No,NA
+389,Data analyst,Nihilent,Pune,,No,NA
+390,Data analyst,JPMorgan Chase & Co,Mumbai,Excel,No,NA
+391,Data analyst,Oracle,India,,No,NA
+392,Data analyst,Sciative Solutions,Vashi,Excel,No,NA
+393,Data analyst,mPower Software Services,Bengaluru,,No,No
+394,Data analyst,Cityinfo Services,Bengaluru,,No,NA
+395,Data analyst,Accenture,Bengaluru,,No,NA
+396,Data analyst,Priceline.com,Hybrid remote in Mumbai,Cloud,Yes,No
+397,Data analyst,Siemens,Bengaluru,,No,NA
+398,Data analyst,Citi,India,,No,NA
+399,Data analyst,Boston Consulting Group,New Delhi,"Data Visualization, Dashboard, Tableau",No,No
+400,Data analyst,AHRC Pvt Ltd,Ahmedabad,Excel,No,NA
+401,Data analyst,EY,India,Excel,No,NA
+402,Data analyst,Grant Thornton INDUS,Remote in Bengaluru,Excel,Yes,NA
+403,Data analyst,Deloitte,Bengaluru,,No,NA
+404,Data analyst,It Resource Hunter,Gurgaon,Stat,No,NA
+405,Data analyst,Blue Yonder,Bengaluru,,No,NA
+406,Data analyst,Getronics,Bengaluru,,No,NA
+407,Data analyst,Genpact,Bengaluru,,No,NA
+408,Data analyst,Boston Consulting Group,New Delhi,Database,No,No
+409,Data analyst,Aspiration,Navi Mumbai,,No,NA
+410,Data analyst,KPMG,Gurgaon,,No,NA
+411,Data analyst,4CRisk.ai Software,Bengaluru,,No,NA
+412,Data analyst,Indegene,Bengaluru,,No,NA
+413,Data analyst,Rightzone Resource Solutions Pvt Ltd,Nagercoil,Database,No,NA
+414,Data analyst,Sun Life,Gurgaon,,No,NA
+415,Data analyst,iDesign.Market,Delhi,,No,NA
+416,Data analyst,Hotstar,Bengaluru,"Python, Data Visualization, Stat, Excel",No,NA
+417,Data analyst,BK Talent Lease Consulting,New Delhi,Data Mining,No,No
+418,Data analyst,JPMorgan Chase & Co,Mumbai,,No,NA
+419,Data analyst,Cendyn,Hybrid remote in Gurgaon,,Yes,NA
+420,Data analyst,Kwalee,Hybrid remote in Bengaluru,,Yes,NA
+421,Data analyst,Pivotree,"+2 locations
+Remote",Stat,Yes,NA
+422,Data analyst,Acceldata,Hybrid remote in Bengaluru,,Yes,NA
+423,Data analyst,Export Genius,Remote in New Delhi,Database,Yes,NA
+424,Data analyst,American Express Global Business Travel,Remote in India,,Yes,NA
+425,Data analyst,Genpact,Bengaluru,,No,NA
+426,Data analyst,AMBC,Remote in Bengaluru,,Yes,No
+427,Data analyst,JLL,Bengaluru,,No,NA
+428,Data analyst,BOLD LLC,Noida,,No,NA
+429,Data analyst,Grazitti,Mohali,,No,No
+430,Data analyst,Xogene Services LLC,Remote,,Yes,NA
+431,Data analyst,BIG IT JOBS,Gurgaon,Data Structure,No,NA
+432,Data analyst,Simcorp,Noida,,No,NA
+433,Data analyst,Manya Education Pvt Ltd,New Delhi,,No,NA
+434,Data analyst,Warner Bros. Discovery,Hyderabad,,No,NA
+435,Data analyst,Renault Group,Chennai,,No,NA
+436,Data analyst,Cibirix,Indore,,No,NA
+437,Data analyst,Kroll,Mumbai,Data Visualization,No,No
+438,Data analyst,Agarwal Job Placement,Surat,,No,No
+439,Data analyst,Sai Computers Limited,Meerut,,No,NA
+440,Data analyst,Ultimez,Hubli," Sql , Database",No,No
+441,Data analyst,FIS Global,Bengaluru,,No,No
+442,Data analyst,MMStartup,Chennai,Stat,No,No
+443,Data analyst,CSB Bank,Ernakulam,,No,NA
+444,Data analyst,Virtual Binz,Udaipur,,No,No
+445,Data analyst,FactEntry,Vellore,,No,No
+446,Data analyst,SelFin India Financial Services,Mumbai,,No,NA
+447,Data analyst,Muthoottu Infotech Pvt Ltd.(MMSoftTech),Ernakulam,,No,No
+448,Data analyst,infoanalytica,Ahmedabad,,No,NA
+449,Data analyst,Link Group,Mumbai,,No,NA
+450,Data analyst,Pyxidia TechLab LLP,Bengaluru,,No,NA
+451,Data analyst,Flexiti Financial,Remote in Hyderabad,,Yes,NA
+452,Data analyst,Vimaan Robotics,Bengaluru,Database,No,No
+453,Data analyst,Windmill Smart Solutions,Remote,,Yes,NA
+454,Data analyst,Knack Ventures,Bopal,,No,NA
+455,Data analyst,Flipkart,Bengaluru,,No,NA
+456,Data analyst,Maybank,Bengaluru,,No,NA
+457,Data analyst,Refresh Marketing,Coimbatore,"Data Visualization, Stat, Excel",No,NA
+458,Data analyst,Crypto Mize,Delhi,,No,NA
+459,Data analyst,Boston Consulting Group,New Delhi,"Data Visualization, Dashboard, Tableau",No,No
+460,Data analyst,Crypto Mize,Delhi,,No,NA
+461,Data analyst,JLL,Gurgaon,,No,NA
+462,Data analyst,Wibits Web Solutions,Nagercoil,"Excel, Database",No,NA
+463,Data analyst,Yuvo Health,Remote in Chennai,,Yes,No
+464,Data analyst,3M,Bengaluru,,No,NA
+465,Data analyst,Buchprufer,Calicut,"Data Mining, Stat",No,No
+466,Data analyst,Insightland,Remote in Orissa,,Yes,NA
+467,Data analyst,Magnus Composites Synergies Pvt Ltd,Bhiwandi,,No,NA
+468,Data analyst,Accenture,Gurgaon,,No,NA
+469,Data analyst,S&P Global,Ahmedabad,Database,No,NA
+470,Data analyst,GreedyGame Media,Bengaluru," Sql , Dashboard",No,NA
+471,Data analyst,UST,Bengaluru,,No,No
+472,Data analyst,KPMG,Mumbai,Dashboard,No,NA
+473,Data analyst,Accenture,Bengaluru,Etl,No,NA
+474,Data analyst,RedBus,Bengaluru,,No,No
+475,Data analyst,iCRC,Noida,,No,NA
+476,Data analyst,Akscellence Info Solutions,New Delhi,,No,NA
+477,Data analyst,i-Tech Infonet (P) Ltd,Rajkot,,No,NA
+478,Data analyst,Bristol Myers Squibb,Hyderabad,,No,NA
+479,Data analyst,Crypto Mize,Delhi,,No,NA
+480,Data analyst,ALIQAN Technologies,Bengaluru,,No,No
+481,Data analyst,Neem Consulting,Remote in Bengaluru,,Yes,No
+482,Data analyst,Accenture,Gurgaon,,No,No
+483,Data analyst,Citco,Hyderabad,Stat,No,NA
+484,Data analyst,IDP Education Ltd,Chennai,,No,NA
+485,Data analyst,Micron,Hyderabad,,No,NA
+486,Data analyst,PLF Solutions,Panchkula,Big Data,No,NA
+487,Data analyst,TechnipFMC,India,,No,NA
+488,Data analyst,CGI,Bengaluru,,No,NA
+489,Data analyst,Sun Life,Gurgaon,Data Mining,No,No
+490,Data analyst,Deloitte,Bengaluru,,No,NA
+491,Data analyst,HILTI,Gurgaon,Excel,No,NA
+492,Data analyst,Rezo.ai.,Noida,"Data Visualization, Tableau",No,NA
+493,Data analyst,Morningstar,Hybrid remote in Navi Mumbai,,Yes,NA
+494,Data analyst,FIS Global,Bengaluru,Cloud,No,No
+495,Data analyst,Eaton,Pune,"Data Visualization, Database",No,NA
+496,Data analyst,Mordor Intelligence,Remote,,Yes,NA
+497,Data analyst,SmartConnect Technologies (UNFYD),Wagle Estate,Data Visualization,No,No
+498,Data analyst,Sourcedesk Global,Kolkata,,No,NA
+499,Data analyst,Bristol Myers Squibb,Hyderabad,,No,NA
+500,Data analyst,CRISIL,India,,No,NA
+501,Data analyst,Netxcell,Vijayawada,,No,NA
+502,Data analyst,Mastercard,Gurgaon,,No,NA
+503,Data analyst,BizTecno,Chandigarh,"Python, Stat",No,NA
+504,Data analyst,Maersk,Pune,,No,NA
+505,Data analyst,Nimiety Careers,Indiranagar,,No,NA
+506,Data analyst,BigTapp Pte. Ltd,Chennai,,No,No
+507,Data analyst,Bajaj Allianz General Insurance Company,India,,No,NA
+508,Data analyst,Mastercard,Gurgaon,"Data Visualization, Stat, Tableau",No,No
+509,Data analyst,Deloitte,Hyderabad,,No,NA
+510,Data analyst,Fluidonomics Solutions LLP,Pune,,No,NA
+511,Data analyst,Citi,Bengaluru,Stat,No,NA
+512,Data analyst,Information Services Group,Bengaluru,,No,NA
+513,Data analyst,ALSTOM,Bengaluru,,No,NA
+514,Data analyst,ZF,Coimbatore,,No,NA
+515,Data analyst,Locuz Enterprise Solutions,Mumbai,Cloud,No,NA
+516,Data analyst,ASM Technologies,Bengaluru,,No,No
+517,Data analyst,Saasvaap,India,,No,NA
+518,Data analyst,Bristol Myers Squibb,Remote in Hyderabad,,Yes,NA
+519,Data analyst,Winning Edge,Bengaluru,,No,NA
+520,Data analyst,FERRERO,Pune,,No,NA
+521,Data analyst,BNP Paribas,Mumbai,,No,NA
+522,Data analyst,NextGrowth Labs,Bengaluru,Database,No,NA
+523,Data analyst,PCDS Infotech,Mumbai,,No,NA
+524,Data analyst,HRS,Chandigarh,,No,NA
+525,Data analyst,Google,Mumbai,,No,NA
+526,Data analyst,Amex,Gurgaon,Python,No,No
+527,Data analyst,Boston Consulting Group,Bengaluru,,No,NA
+528,Data analyst,Goldman Sachs,Bengaluru,Big Data,No,NA
+529,Data analyst,Crypto Mize,Delhi,,No,NA
+530,Data analyst,MidTown Software,Mohali,Database,No,NA
+531,Data analyst,DoptitAI,Kochi,Database,No,NA
+532,Data analyst,TIAA,Mumbai,Data Structure,No,NA
+533,Data analyst,Squirrel Softech services private limited,Makarba,"Data Visualization, Tableau",No,NA
+534,Data analyst,Marsh,Mumbai,,No,NA
+535,Data analyst,Rapidera Technologies Pvt Ltd,Pune,Database,No,No
+536,Data analyst,Bristol Myers Squibb,Hyderabad,,No,NA
+537,Data analyst,Sawara Solutions Pvt Ltd,Bengaluru,,No,NA
+538,Data analyst,Alstone Manufacturing,India,"Data Mining, Big Data",No,NA
+539,Data analyst,Eccentric,Remote,,Yes,NA
+540,Data analyst,Young Turtle LLP,Ahmedabad,Stat,No,No
+541,Data analyst,M.K GROUP,Pune,,No,NA
+542,Data analyst,Accenture,Gurgaon,,No,NA
+543,Data analyst,Squareboat,Gurgaon,Excel,No,NA
+544,Data analyst,Research Nester,Noida,,No,NA
+545,Data analyst,Zscaler,Bengaluru,,No,No
+546,Data analyst,Axis My India,Mumbai,Stat,No,NA
+547,Data analyst,Yash Technologies,Pune,"Data Visualization, Cloud",No,NA
+548,Data analyst,Lowe's,Bengaluru,,No,NA
+549,Data analyst,Maersk,Pune,,No,NA
+550,Data analyst,Outsource Bigdata,Remote,Excel,Yes,NA
+551,Data analyst,Capline Services,Noida,,No,NA
+552,Data analyst,Equifax,Mumbai,,No,No
+553,Data analyst,McKinsey & Company,Bengaluru,,No,NA
+554,Data analyst,NEXTracker,Hyderabad,"Python, Data Visualization,  R , Tableau, Powerbi",No,No
+555,Data analyst,EY,Bengaluru,Database,No,NA
+556,Data analyst,IndustryARC,Remote,,Yes,NA
+557,Data analyst,Bristol Myers Squibb,Remote in Hyderabad,,Yes,NA
+558,Data analyst,Altus Group,Hyderabad,,No,NA
+559,Data analyst,SKD Academy,Lucknow,Data Mining,No,No
+560,Data analyst,Taboola,Gurgaon,,No,No
+561,Data analyst,Ashok Maheshwary & Associates,Gurgaon,,No,NA
+562,Data analyst,Ahex Technologies,Hyderabad,Data Visualization,No,NA
+563,Data analyst,YouGov,Navi Mumbai,Stat,No,NA
+564,Data analyst,Juniper Networks,Bengaluru,Cloud,No,NA
+565,Data analyst,Tiger Analytics,Bengaluru,"Machine Learning, Stat",No,NA
+566,Data analyst,NXGN Sports Interactive Pvt Ltd,Ahmedabad,,No,No
+567,Data analyst,Bristol Myers Squibb,Hyderabad,,No,NA
+568,Data analyst,Your Car,Surat,Excel,No,NA
+569,Data analyst,Appzlogic Mobility Solutions Pvt Ltd,Noida,,No,NA
+570,Data analyst,Harvest Group,Tamil Nadu,"Cloud, Database",No,NA
+571,Data analyst,Goldman Sachs,Bengaluru,Data Structure,No,NA
+572,Data analyst,Nestaway Technologies,Bengaluru,Data Mining,No,NA
+573,Data analyst,The/Nudge,Bengaluru,Excel,No,NA
+574,Data analyst,JPMorgan Chase & Co,Mumbai,Machine Learning,No,NA
+575,Data analyst,Flipkart,Bengaluru,Data Mining,No,NA
+576,Data analyst,Mantras2Success consultants,Mumbai,Database,No,NA
+577,Data analyst,LatinumHR,Calicut,,No,No
+578,Data analyst,John Cockerill,Mumbai,Dashboard,No,NA
+579,Data analyst,iTDAY India,Bengaluru,Data Mining,No,No
+580,Data analyst,Genpact,Bengaluru,,No,NA
+581,Data analyst,Novartis,Hyderabad District,,No,NA
+582,Data analyst,General Mills,Mumbai,,No,NA
+583,Data analyst,Findem,Remote in Bengaluru,,Yes,NA
+584,Data analyst,AJobman,Ahmedabad,"Data Visualization, Stat",No,NA
+585,Data analyst,JPMorgan Chase & Co,Bengaluru,,No,NA
+586,Data analyst,Bristol Myers Squibb,Hyderabad,,No,NA
+587,Data analyst,Accenture,Noida,,No,NA
+588,Data analyst,Maxxmann Communications Pvt. Ltd,Chandigarh,Data Visualization,No,No
+589,Data analyst,Bridgesoft Solutions Pvt Ltd,Hyderabad," Sql , Database",No,NA
+590,Data analyst,Technovatrix,India, Sql ,No,No
+591,Data analyst,Eaton,Hadapsar,Database,No,No
+592,Data analyst,Sai Computers Limited,Meerut,,No,NA
+593,Data analyst,Michelin,Pune,,No,NA
+594,Data analyst,LanceTech Solutions Pvt Ltd,Remote in Chennai,,Yes,No
+595,Data analyst,Saltmine,Bengaluru,,No,NA
+596,Data analyst,Indibni Pvt Ltd,Jaipur,,No,NA
+597,Data analyst,Chqbook,Gurgaon,,No,NA
+598,Data analyst,AI Workspace,Kolkata,,No,No
+599,Data analyst,Round Bracket,Jaipur,,No,NA
+600,Data analyst,PYXIDIATECH LAB LLP,Bengaluru,,No,NA
+601,Data analyst,GXO Logistics,Mumbai,,No,NA
+602,Data analyst,Giesecke+Devrient GmbH,Gurgaon,,No,NA
+603,Data analyst,FIS Global,Mohali,,No,NA
+604,Data analyst,KRSNAA Diagnostics,Pune,,No,No
+605,Data analyst,Baker Hughes,Remote in Mumbai,,Yes,No
+606,Data analyst,MPOWER Financing,Bengaluru,,No,No
+607,Data analyst,Samyak Infotech,Ahmedabad,"Preprocessing, Stat",No,NA
+608,Data analyst,Arihant Capital Markets Ltd,Indore,,No,NA
+609,Data analyst,Boston Consulting Group,New Delhi,,No,NA
+610,Data analyst,Infosys,Hyderabad,,No,NA
+611,Data analyst,Asia Pacific Ceramics,Ahmedabad,Data Mining,No,NA
+612,Data analyst,Beinex,Kochi,Database,No,NA
+613,Data analyst,Genpact,Bengaluru,Excel,No,NA
+614,Data analyst,Telstra,Bengaluru,,No,No
+615,Data analyst,Webyops Inc,Pune,,No,NA
+616,Data analyst,INT9 Solutions,Chennai,,No,NA
+617,Data analyst,FossGen Technologies Pvt.ltd,Pune,,No,NA
+618,Data analyst,SUMADHURA Group,Marathahalli,,No,NA
+619,Data analyst,EY,Bengaluru,Excel,No,NA
+620,Data analyst,KPMG,Mumbai,,No,No
+621,Data analyst,Airtel India,Gurgaon,,No,NA
+622,Data analyst,Sprinklr,Gurgaon,,No,NA
+623,Data analyst,WTW,Gurgaon,,No,NA
+624,Data analyst,EY,Noida,,No,NA
+625,Data analyst,Vodafone,Bengaluru,,No,NA
+626,Data analyst,Propel Technology Group,Chennai,,No,NA
+627,Data analyst,EY,Kochi,,No,No
+628,Data analyst,Bristol Myers Squibb,Hyderabad,,No,NA
+629,Data analyst,JPMorgan Chase & Co,Mumbai,"Python, Excel",No,No
+630,Data analyst,Certara,Remote in Secunderabad,Database,Yes,NA
+631,Data analyst,TESTRIQ QA Lab,Mira Road,,No,NA
+632,Data analyst,systems plus,Pune,,No,NA
+633,Data analyst,Mantras2Success consultants,Mumbai," Sql , Database",No,No
+634,Data analyst,Tetra Pak,Pune,,No,NA
+635,Data analyst,Seller Rocket,Thanjavur,"Data Visualization, Excel",No,NA
+636,Data analyst,Mantras2Success consultants,Hyderabad,,No,NA
+637,Data analyst,Etraveli Group,Pune,,No,No
+638,Data analyst,Bristol Myers Squibb,Hyderabad,,No,NA
+639,Data analyst,Citi,Chennai,,No,NA
+640,Data analyst,NetConnect Private Limited,Bengaluru,,No,NA
+641,Data analyst,Genpact,Bengaluru,Data Mining,No,No
+642,Data analyst,Recruiter Wings Consultancy,Chennai,,No,No
+643,Data analyst,Mastercard,Pune,,No,NA
+644,Data analyst,Concentrix,Bengaluru,Stat,No,NA
+645,Data analyst,CIGNEX Datamatics,Bengaluru,,No,No
+646,Data analyst,iAssure International Technologies Pvt Ltd,Pune,,No,NA
+647,Data analyst,Boston Consulting Group,New Delhi,,No,NA
+648,Data analyst,Wells Fargo,Hyderabad,"Python, Machine Learning, Big Data",No,NA
+649,Data analyst,Kaplan,Bengaluru,,No,NA
+650,Data analyst,Sun Life,Bengaluru,Python,No,No
+651,Data analyst,CRISIL,Pune,Data Visualization,No,NA
+652,Data analyst,CSRBOX,Remote in Ahmedabad,,Yes,NA
+653,Data analyst,Healthfirst Technologies,Hyderabad,,No,NA
+654,Data analyst,Sai Computers Limited,Meerut,,No,NA
+655,Data analyst,Abserve Tech,Simmakkal,,No,NA
+656,Data analyst,Institutional Shareholder Services,Hybrid remote in Mumbai,,Yes,NA
+657,Data analyst,EY,Noida,,No,NA
+658,Data analyst,iCRC,Noida,Data Visualization,No,NA
+659,Data analyst,JLL,Bengaluru,,No,NA
+660,Data analyst,JLL,Bengaluru,,No,NA
+661,Data analyst,Aspire Ladders,Indore,"Python,  R , Stat, Excel, Tableau",No,NA
+662,Data analyst,Dentsu Aegis Network,Bengaluru,Database,No,NA
+663,Data analyst,Varroc Engineering,Pune,,No,NA
+664,Data analyst,2M Shaan Engineering Solutions Pvt Ltd,Delhi,,No,No

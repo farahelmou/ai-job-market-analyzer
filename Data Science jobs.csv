@@ -1,0 +1,677 @@
+,job title,company,region,skills required,is remote?,is fresher?
+0,Data scientist,London Stock Exchange Group,Hyderabad,,No,NA
+1,Data scientist,Indeed,Remote,"Data Structure, Machine Learning",Yes,NA
+2,Data scientist,Indeed,Remote,"Data Structure, Machine Learning",Yes,NA
+3,Data scientist,Khan's Tutorial,Pune,Python,No,NA
+4,Data scientist,Onsite Academy Pvt Ltd,Guwahati,"Python, Machine Learning",No,NA
+5,Data scientist,Deloitte,Bengaluru,,No,NA
+6,Data scientist,Boston Consulting Group,New Delhi,,No,NA
+7,Data scientist,Pinkerton,Bengaluru,Stat,No,NA
+8,Data scientist,Agoda,Delhi,,No,NA
+9,Data scientist,Publicis Sapient,Bengaluru,,No,NA
+10,Data scientist,Amex,Gurgaon,"Python, Big Data",No,No
+11,Data scientist,Deloitte,Bengaluru,,No,NA
+12,Data scientist,AutoFlipz,Remote,"Python, Preprocessing",Yes,No
+13,Data scientist,Brave AI Lab,India,Python,No,NA
+14,Data scientist,Cargill,Bengaluru,,No,NA
+15,Data scientist,Kenvue,Bengaluru,AI,No,NA
+16,Data scientist,AISPL - Tamil Nadu,Bengaluru,"Python,  R , Big Data",No,NA
+17,Data scientist,Deloitte,Hyderabad,,No,NA
+18,Data scientist,MiQ Digital,Hybrid remote in Bengaluru,"Data Mining,  Sql , Big Data",Yes,No
+19,Data scientist,myOnsite Healthcare LLC,Vadodara,,No,NA
+20,Data scientist,Deloitte,Bengaluru,"Python, Deep Learning, Stat",No,No
+21,Data scientist,TransUnion,Pune,,No,NA
+22,Data scientist,IBM,Bengaluru,,No,NA
+23,Data scientist,Getinz,Bengaluru,Deployment,No,NA
+24,Data scientist,Deloitte,Hyderabad,"Machine Learning, Big Data, Stat",No,NA
+25,Data scientist,"Ryan, LLC",Remote in Hyderabad,,Yes,No
+26,Data scientist,Macropace Technologies,Bengaluru,"Machine Learning, Data Mining, Stat",No,No
+27,Data scientist,Barclays,Chennai,,No,NA
+28,Data scientist,Tookitaki,Bengaluru,Machine Learning,No,No
+29,Data scientist,Deutsche Bank,Pune,Data Mining,No,NA
+30,Data scientist,BigShyft,Noida,Preprocessing,No,NA
+31,Data scientist,CODEC Networks,Delhi,,No,NA
+32,Data scientist,Deloitte,Bengaluru,,No,NA
+33,Data scientist,SIXT India,Bengaluru,,No,No
+34,Data scientist,SciPy Technologies,Thiruvananthapuram,,No,Yes
+35,Data scientist,Cargill,Bengaluru,Stat,No,NA
+36,Data scientist,Accenture,Bengaluru,Python,No,No
+37,Data scientist,Techcovery Solutions,Bengaluru,Preprocessing,No,NA
+38,Data scientist,Flexday,Hyderabad,Machine Learning,No,No
+39,Data scientist,Athena,Remote,,Yes,NA
+40,Data scientist,Avient,Pune,Data Mining,No,No
+41,Data scientist,KPMG,Mumbai,,No,NA
+42,Data scientist,Clarifai,Remote in Bengaluru,,Yes,NA
+43,Data scientist,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,NA
+44,Data scientist,Credit Saison,Bengaluru,,No,NA
+45,Data scientist,Innefu Labs Pvt. Ltd.,Delhi,,No,NA
+46,Data scientist,KPMG,Bengaluru,,No,NA
+47,Data scientist,Capgemini,Mumbai,"Data Visualization, Preprocessing",No,NA
+48,Data scientist,Apple,Bengaluru,,No,NA
+49,Data scientist,Accenture,Bengaluru,AI,No,No
+50,Data scientist,SS Supply Chain Solutions,Bengaluru,"Data Structure, Data Visualization",No,NA
+51,Data scientist,InTechHub Solutions,Remote,"Python, Stat",Yes,No
+52,Data scientist,Livello India,Hyderabad,,No,No
+53,Data scientist,LatentView,Chennai,Machine Learning,No,No
+54,Data scientist,Lawyantra,Mumbai, Sql ,No,No
+55,Data scientist,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,No
+56,Data scientist,Datawrkz,Bengaluru,,No,NA
+57,Data scientist,Oracle,Bengaluru,Machine Learning,No,No
+58,Data scientist,Raptor Supplies Private Limited,New Delhi,Machine Learning,No,NA
+59,Data scientist,Photon,Chennai,Big Data,No,No
+60,Data scientist,Bosch Group,Hyderabad, Sql ,No,No
+61,Data scientist,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,NA
+62,Data scientist,Ellicium,Pune,Big Data,No,NA
+63,Data scientist,Stalwart Innovations,Bengaluru,,No,NA
+64,Data scientist,WUElev8 Innovation Services,Noida,Dashboard,No,NA
+65,Data scientist,Walr,Remote in India,,Yes,NA
+66,Data scientist,Alzbeta Search Partners,Mumbai,,No,No
+67,Data scientist,WorkSure,New Delhi,,No,NA
+68,Data scientist,Microsoft,Bengaluru,,No,NA
+69,Data scientist,Affinity Express,Pune,,No,No
+70,Data scientist,Bosch Group,Bengaluru,"Machine Learning, Stat",No,NA
+71,Data scientist,IQVIA,Bengaluru,,No,NA
+72,Data scientist,Adobe,Noida,,No,No
+73,Data scientist,Cantaloupe,Remote,,Yes,NA
+74,Data scientist,Docplexus,Remote,Data Mining,Yes,NA
+75,Data scientist,Paytail,Gurgaon,,No,NA
+76,Data scientist,Instaspaces Realtech Private Limited,Gurgaon,,No,NA
+77,Data scientist,Boston Consulting Group,Bengaluru,,No,NA
+78,Data scientist,Vixplor Analytics,Kolkata,,No,No
+79,Data scientist,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,NA
+80,Data scientist,NovoTree Minds Consulting,Bengaluru,,No,NA
+81,Data scientist,TransUnion,Mumbai,,No,NA
+82,Data scientist,X-YUG Technologies,Begumpet,Preprocessing,No,NA
+83,Data scientist,SatSure Analytics India,Bengaluru,,No,No
+84,Data scientist,Google,Bengaluru,Machine Learning,No,NA
+85,Data scientist,Accenture,Hyderabad,Big Data,No,NA
+86,Data scientist,Puneri Pattern,Maharashtra,Machine Learning,No,NA
+87,Data scientist,Visa,Mumbai,,No,No
+88,Data scientist,Unified Infotech,Kolkata,,No,No
+89,Data scientist,Nissan,Thiruvananthapuram,,No,NA
+90,Data scientist,Siemens,Bengaluru,,No,NA
+91,Data scientist,Lendingkart,Bengaluru,"Machine Learning, Stat",No,No
+92,Data scientist,Aptagrim Consulting,Hyderabad,"Data Visualization, Preprocessing",No,No
+93,Data scientist,Flipkart,Bengaluru,"Data Mining, Dashboard",No,NA
+94,Data scientist,TBot Techno Systems,Bengaluru,,No,No
+95,Data scientist,Iresh7 consulting,Delhi,Preprocessing,No,No
+96,Data scientist,Antier Solutions,Mohali,Data Structure,No,NA
+97,Data scientist,InnoBit Systems,Noida,,No,NA
+98,Data scientist,EarlySalary,Pune,Machine Learning,No,No
+99,Data scientist,ONLEI Technologies,Remote,,Yes,Yes
+100,Data scientist,Infosys,Pune,,No,NA
+101,Data scientist,Novartis,Hyderabad District,,No,NA
+102,Data scientist,Nagarro,Remote,,Yes,No
+103,Data scientist,UST,Remote in Thiruvananthapuram,"Data Mining, Etl, Stat",Yes,No
+104,Data scientist,Accenture,Mumbai,,No,NA
+105,Data scientist,Technovert,Hyderabad,Data Mining,No,No
+106,Data scientist,Ecozen Solutions,Pune,,No,No
+107,Data scientist,Acuity Knowledge Partners,Bengaluru,,No,No
+108,Data scientist,Meithee Tech Private Limited,Bengaluru,"Python, Big Data",No,NA
+109,Data scientist,Holiday Factory,Pune,,No,NA
+110,Data scientist,Verizon,Remote in Chennai,AI,Yes,No
+111,Data scientist,Microsoft,Bengaluru,,No,NA
+112,Data scientist,Pivotchain Solution Technologies,Pune,,No,NA
+113,Data scientist,SSP Technology,Pune,Data Mining,No,NA
+114,Data scientist,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,NA
+115,Data scientist,Bradken,Coimbatore,Big Data,No,NA
+116,Data scientist,Accuracy Info Labs Pvt. Ltd.,Pune,Data Mining,No,NA
+117,Data scientist,Sorigin Group,Pune,"Data Visualization, Data Mining",No,No
+118,Data scientist,Anagram Media & Marketing,Delhi,"Python,  Sql ",No,NA
+119,Data scientist,Beinex,India,Data Visualization,No,NA
+120,Data scientist,Intuit,Bengaluru,,No,No
+121,Data scientist,Zazz,Hyderabad,,No,NA
+122,Data scientist,HealthAsyst,Bengaluru,Stat,No,NA
+123,Data scientist,Softweb Solutions,Ahmedabad,"Python, Deep Learning",No,No
+124,Data scientist,Finquest,Bengaluru,,No,NA
+125,Data scientist,Infowiz Software Solution,Amritsar,,No,NA
+126,Data scientist,Cendyn,Gurgaon,Stat,No,No
+127,Data scientist,Alcon,Bengaluru,,No,NA
+128,Data scientist,SkillCircle,New Delhi,,No,No
+129,Data scientist,Future Profilez,Remote,,Yes,NA
+130,Data scientist,Deloitte,Bengaluru,,No,NA
+131,Data scientist,Khan Academy,Remote,,Yes,No
+132,Data scientist,RamSoft,Remote in Bengaluru,,Yes,No
+133,Data scientist,Mr. Cooper,Chennai,,No,No
+134,Data scientist,Intuit,Bengaluru,,No,No
+135,Data scientist,Paytm,Noida,,No,NA
+136,Data scientist,Censius,Remote in India,Machine Learning,Yes,No
+137,Data scientist,Siemens Healthineers,Bengaluru,"Data Visualization, Preprocessing",No,NA
+138,Data scientist,Hookfish,Mumbai,,No,NA
+139,Data scientist,Kmart,Bengaluru,,No,No
+140,Data scientist,CodiniX,Noida,Etl,No,NA
+141,Data scientist,E Page Infotech,Remote in Pune,,Yes,No
+142,Data scientist,Ataloud Technologies,Remote,,Yes,No
+143,Data scientist,Sourcedesk Global,Kolkata,Python,No,NA
+144,Data scientist,Sybrant Data,Chennai,"Python, Machine Learning, Data Mining",No,No
+145,Data scientist,Autodesk,Bengaluru,Stat,No,NA
+146,Data scientist,Visa,Hybrid remote in Bengaluru,AI,Yes,NA
+147,Data scientist,Mercedes-Benz Research and Development India...,Bengaluru,,No,NA
+148,Data scientist,NexaQ,Remote,,Yes,NA
+149,Data scientist,Clarivate,Hybrid remote in Bengaluru,,Yes,NA
+150,Data scientist,Saffo Solution Technology,Pune,,No,NA
+151,Data scientist,Imurgence,Jamshedpur,"Machine Learning, Deep Learning, Big Data, Stat",No,NA
+152,Data scientist,Comviva,Bengaluru,Data Mining,No,No
+153,Data scientist,Ninestars Information Technologies,Bengaluru,,No,No
+154,Data scientist,Perfality Business Solutions LLP,Jaipur,Data Visualization,No,No
+155,Data scientist,Akscellence Info Solutions,New Delhi,,No,NA
+156,Data scientist,Imurgence,India, R ,No,No
+157,Data scientist,Recruise India Consulting Pvt Ltd,Bengaluru,Stat,No,NA
+158,Data scientist,Great Learning,Gurgaon,"Python,  Sql ",No,No
+159,Data scientist,Rubrik Job Board,Bengaluru,,No,NA
+160,Data scientist,Marktine Technology Solutions,Remote,,Yes,NA
+161,Data scientist,Supermaths,Kolkata,Machine Learning,No,NA
+162,Data scientist,ADCI - Karnataka,Bengaluru,"Machine Learning, Deep Learning, Stat",No,No
+163,Data scientist,RELX,India,,No,No
+164,Data scientist,Findability Sciences,Aurangabad,,No,No
+165,Data scientist,SourceFuse Technologies,Noida,,No,NA
+166,Data scientist,Concentrix,Bengaluru,,No,No
+167,Data scientist,Accenture,Noida,Big Data,No,NA
+168,Data scientist,Sinarmas Land,Andaman and Nicobar Islands,Stat,No,No
+169,Data scientist,Agnik,India,,No,No
+170,Data scientist,Accenture,Mumbai,Stat,No,NA
+171,Data scientist,EY,Hyderabad,,No,No
+172,Data scientist,True Tech Professionals Private Limited,Gurgaon,Machine Learning,No,No
+173,Data scientist,Fortuna Entertainment Group,India,,No,No
+174,Data scientist,FiscalNote,Gurgaon,,No,NA
+175,Data scientist,Revol Process Solutions,Chennai,,No,NA
+176,Data scientist,Deutsche Bank,Mumbai,,No,NA
+177,Data scientist,LanceTech Solutions Pvt Ltd,Agra,,No,NA
+178,Data scientist,Kloud9,India,,No,NA
+179,Data scientist,Jet2 Travel Technologies,Remote in Pune,,Yes,No
+180,Data scientist,Prevalent AI,Kochi,"Python, Big Data",No,No
+181,Data scientist,GiBots,Pune,Data Structure,No,NA
+182,Data scientist,EVC Ventures,Gurgaon,,No,No
+183,Data scientist,HSBC,Mumbai,,No,NA
+184,Data scientist,REIZEND PRIVATE LIMITED,Thiruvananthapuram,"Data Mining, Stat",No,No
+185,Data scientist,Codvo.ai,Remote in Bengaluru,,Yes,NA
+186,Data scientist,Imurgence,Remote,,Yes,NA
+187,Data scientist,Perfect eLearning,Hyderabad,,No,No
+188,Data scientist,Convera,Remote in Pune,,Yes,NA
+189,Data scientist,GeakMinds,Remote in Chennai,"Data Mining,  Sql , Stat",Yes,NA
+190,Data scientist,PayPal,Hyderabad,,No,NA
+191,Data scientist,A2Z Jobs Consultancy,Kolkata,,No,NA
+192,Data scientist,Acuity Knowledge Partners,Bengaluru,,No,NA
+193,Data scientist,LinkedIn Limited Listings,Gurgaon,Machine Learning,No,NA
+194,Data scientist,PharmaACE,Pune,,No,NA
+195,Data scientist,Ayruz Data Marketing,Kerala,Data Mining,No,No
+196,Data scientist,Peak AI,Hybrid remote in Pune,Deployment,Yes,No
+197,Data scientist,Takeda Pharmaceutical,Bengaluru,,No,NA
+198,Data scientist,Bombay Play,Bengaluru,Stat,No,NA
+199,Data scientist,Publicis Sapient,Gurgaon,,No,NA
+200,Data scientist,SrinSoft,India,"Data Visualization, Big Data",No,No
+201,Data scientist,Pratt & Whitney,Bengaluru,,No,No
+202,Data scientist,Salesforce,Hyderabad,,No,NA
+203,Data scientist,iDataLytics,Ernakulam,,No,No
+204,Data scientist,Aptus Data LAbs,Bengaluru,,No,NA
+205,Data scientist,Flipkart,Bengaluru,Stat,No,No
+206,Data scientist,SPAATech Solutions,India,Data Mining,No,NA
+207,Data scientist,India Bison,Remote,Etl,Yes,NA
+208,Data scientist,Citi,Bengaluru,,No,No
+209,Data scientist,LYCUS,Bengaluru,Artificial Intelligence,No,NA
+210,Data scientist,Training Basket,Gautam Budh Nagar,Data Visualization,No,No
+211,Data scientist,infoanalytica,Ahmedabad,"Data Mining, Stat",No,No
+212,Data scientist,Techvantage Systems,Thiruvananthapuram,,No,NA
+213,Data scientist,Bosch Group,Coimbatore,,No,NA
+214,Data scientist,TALCHEMIST,Bengaluru,,No,NA
+215,Data scientist,Getinz,Bengaluru,,No,NA
+216,Data scientist,Husk Power Systems,Pune,"Data Structure, Etl",No,No
+217,Data scientist,Emerging India Group,Noida,,No,No
+218,Data scientist,West Pharmaceutical Services,Bengaluru,Stat,No,No
+219,Data scientist,FIS Global,Pune,,No,No
+220,Data scientist,Mercedes-Benz Research and Development India...,Bengaluru,,No,NA
+221,Data scientist,Prognoz,Remote,,Yes,No
+222,Data scientist,Athena,Remote,,Yes,NA
+223,Data scientist,Retisio,Bengaluru,"Data Mining, Etl",No,NA
+224,Data scientist,Crayon Data,India,,No,No
+225,Data scientist,Goldman Sachs,Hyderabad,Stat,No,No
+226,Data scientist,Maruti Suzuki India Ltd,Bengaluru,,No,NA
+227,Data scientist,Mahindra Teqo,Bengaluru,Big Data,No,NA
+228,Data scientist,Guires Solutions Pvt Ltd,Chennai,Machine Learning,No,NA
+229,Data scientist,Qualcomm,Hyderabad,,No,NA
+230,Data scientist,Ignitho,Chennai,,No,NA
+231,Data scientist,CSG,Hybrid remote in Bengaluru,,Yes,NA
+232,Data scientist,BT Group,Bengaluru,,No,NA
+233,Data scientist,Kpro Solutions,Bengaluru,"Python,  R ",No,No
+234,Data scientist,Microsoft,Noida,,No,No
+235,Data scientist,66degrees,Remote in Mysore,,Yes,No
+236,Data scientist,Gainwell Technologies LLC,Remote in Chennai,Python,Yes,No
+237,Data scientist,Neosoft Technologies Pvt.Ltd,Mumbai,Etl,No,NA
+238,Data scientist,qtech,Mumbai,,No,No
+239,Data scientist,BigShyft,Gurgaon,Python,No,NA
+240,Data scientist,Citi,Bengaluru,,No,NA
+241,Data scientist,Tredence,India,,No,NA
+242,Data scientist,Oracle,Bengaluru,Data Structure,No,NA
+243,Data scientist,Worldline,Remote in Mumbai,,Yes,NA
+244,Data scientist,Fractal Analytics,Mumbai,Etl,No,NA
+245,Data scientist,JPMorgan Chase & Co,Bengaluru,Machine Learning,No,NA
+246,Data scientist,TCG Digital,Kolkata,,No,No
+247,Data scientist,Colruyt IT Consultancy India,Hyderabad,,No,NA
+248,Data scientist,NOKIA,Noida,Deep Learning,No,NA
+249,Data scientist,FloBiz,Bengaluru,Machine Learning,No,No
+250,Data scientist,Google,Bengaluru,,No,NA
+251,Data scientist,Accenture,Pune,Python,No,No
+252,Data scientist,Butterfly consulting and training,Chennai,,No,NA
+253,Data scientist,Tuebora,Remote,,Yes,NA
+254,Data scientist,Dolby,Bengaluru,,No,NA
+255,Data scientist,Vira Technocrats,Jaipur,Stat,No,No
+256,Data scientist,Smartificia Technologies Pvt Ltd,Remote in Coimbatore,,Yes,NA
+257,Data scientist,Publicis Sapient,Gurgaon,,No,NA
+258,Data scientist,KPMG,Gurgaon,,No,No
+259,Data scientist,Flipkart,Bengaluru,,No,NA
+260,Data scientist,Capgemini,Chennai,,No,NA
+261,Data scientist,FelixHealthcare.AI,Kondapur,,No,No
+262,Data scientist,Intolap,Kolkata,Python,No,NA
+263,Data scientist,Merkle,Pune,,No,NA
+264,Data scientist,Microsoft,Bengaluru,,No,NA
+265,Data scientist,Goldman Sachs,Hyderabad,,No,NA
+266,Data scientist,Zeta Global,Bengaluru,,No,No
+267,Data scientist,vDoIT Technologies,Gurgaon,,No,NA
+268,Data scientist,DEWII,Gurgaon,"Machine Learning, Deep Learning, Big Data",No,NA
+269,Data scientist,PubNub,Bengaluru,,No,NA
+270,Data scientist,Moody's,Bengaluru,,No,NA
+271,Data scientist,GroIntern,Remote,Python,Yes,No
+272,Data scientist,Foraysoft,Gurgaon,,No,No
+273,Data scientist,GVM,Kolkata,Machine Learning,No,NA
+274,Data scientist,L.E.K. Consulting,Mumbai,,No,No
+275,Data scientist,PwC,Bengaluru,Machine Learning,No,No
+276,Data scientist,Career Soft Solutions,Chennai,Python,No,No
+277,Data scientist,Techolution,Remote,Deep Learning,Yes,No
+278,Data scientist,AceNgage Infoservices,Bengaluru,Data Mining,No,NA
+279,Data scientist,Navitas Life Sciences,Chennai,,No,NA
+280,Data scientist,BigShyft,Bengaluru,Data Structure,No,NA
+281,Data scientist,Virtusa,Hybrid remote in Chennai,,Yes,No
+282,Data scientist,Maruti Suzuki India Ltd,Gurgaon,,No,No
+283,Data scientist,ThinkLabs,Hyderabad,,No,NA
+284,Data scientist,Schneider Electric,Bengaluru,,No,NA
+285,Data scientist,Anblicks,Hyderabad,Etl,No,No
+286,Data scientist,Eclature Technologies,Hyderabad,"Data Mining, Big Data",No,NA
+287,Data scientist,Ford Motor Company,Chennai,,No,NA
+288,Data scientist,Brave AI Lab,India,"Python, Machine Learning",No,No
+289,Data scientist,HP,Bengaluru,Machine Learning,No,NA
+290,Data scientist,Bombay Natural History Society,Mumbai,,No,NA
+291,Data scientist,Oracle,Bengaluru,,No,NA
+292,Data scientist,GSK,Bengaluru,,No,NA
+293,Data scientist,Sanofi,Hyderabad,,No,No
+294,Data scientist,Accenture,Hyderabad,,No,NA
+295,Data scientist,Microsoft,Bengaluru,,No,No
+296,Data scientist,GLOBALFOUNDRIES,Bengaluru,Machine Learning,No,NA
+297,Data scientist,Splashgain,Pune,,No,NA
+298,Data scientist,ASM Technologies,Bengaluru,,No,No
+299,Data scientist,RELX,Gurgaon, Sql ,No,NA
+300,Data scientist,Bristlecone,Mumbai,,No,NA
+301,Data scientist,WIN Home Inspection,Remote in New Delhi,,Yes,NA
+302,Data scientist,BigShyft,Noida,,No,No
+303,Data scientist,Ispeck Digital Solutions,Salt Lake,Python,No,No
+304,Data scientist,Transorg Analytics,Remote in Gurgaon,Data Mining,Yes,No
+305,Data scientist,Riddhi Siddhi Career Point,Noida,Machine Learning,No,NA
+306,Data scientist,Innomatics Research Labs,Hyderabad,,No,NA
+307,Data scientist,ARMMAN,New Delhi,,No,NA
+308,Data scientist,myOnsite Healthcare LLC,Vadodara,,No,NA
+309,Data scientist,LNC Enterprises,Gurgaon,"Data Visualization, Stat",No,No
+310,Data scientist,Navalt,Kochi,,No,No
+311,Data scientist,Risk Management Solutions (RMS),Noida,,No,NA
+312,Data scientist,Novartis,Hyderabad District,,No,No
+313,Data scientist,Stellar Data Recovery,Gurgaon,Data Structure,No,NA
+314,Data scientist,Google,Bengaluru,,No,Yes
+315,Data scientist,JPMorgan Chase & Co,Bengaluru,,No,NA
+316,Data scientist,Prepladder,Chandigarh,,No,No
+317,Data scientist,Cloud tech Mind Solutions,Chennai,,No,NA
+318,Data scientist,GenieTalk,Indore,Python,No,NA
+319,Data scientist,MSD,Pune,"Big Data, Stat",No,NA
+320,Data scientist,Affine,Bengaluru,,No,No
+321,Data scientist,BPrise,Mumbai,"Python, Data Mining",No,No
+322,Data scientist,KPMG,Bengaluru,"Big Data, AI",No,NA
+323,Data scientist,Tokopedia,Hyderabad,,No,NA
+324,Data scientist,Abzooba,Pune,Machine Learning,No,NA
+325,Data scientist,Sekel Tech (India),India,Python,No,No
+326,Data scientist,Citi,Bengaluru,,No,NA
+327,Data scientist,Blue Yonder,Bengaluru,Deep Learning,No,NA
+328,Data scientist,Futurism,India,"Data Visualization, Preprocessing",No,NA
+329,Data scientist,Novo Nordisk,Bengaluru,,No,No
+330,Data scientist,KPI Partners,Hyderabad,"Python, Machine Learning",No,No
+331,Data scientist,Mastercard,Gurgaon,Data Mining,No,No
+332,Data scientist,Mercedes-Benz Research and Development India...,Bengaluru,,No,NA
+333,Data scientist,Digital Green,Delhi,,No,NA
+334,Data scientist,Brandmuscle,Bengaluru,,No,NA
+335,Data scientist,Wipro Limited,Bengaluru,Machine Learning,No,NA
+336,Data scientist,Veniso Solutions,Hyderabad,Data Visualization,No,NA
+337,Data scientist,Siemens Healthineers,Bengaluru,,No,No
+338,Data scientist,Gramener,Bengaluru,Preprocessing,No,NA
+339,Data scientist,Kwalee,Hybrid remote in Bengaluru,,Yes,NA
+340,Data scientist,Citta Solutions,Remote,"Data Structure, Big Data",Yes,No
+341,Data scientist,Franklin Templeton Investments,Hyderabad,,No,NA
+342,Data scientist,Apptio,Bengaluru,,No,No
+343,Data scientist,UniConverge Technologies Pvt. Ltd.,Gautam Budh Nagar,Machine Learning,No,NA
+344,Data scientist,WalkingTree Technologies,Agra,,No,NA
+345,Data scientist,Data Axle,Pune,Machine Learning,No,No
+346,Data scientist,Smart Ship,Pune,,No,NA
+347,Data scientist,Aumnux,Kolkata,,No,NA
+348,Data scientist,Paladin Cyber,Remote in Bengaluru,,Yes,NA
+349,Data scientist,Intuit,Bengaluru,Etl,No,NA
+350,Data scientist,HEAL Software,Bengaluru,,No,No
+351,Data scientist,Global Employees,Remote,,Yes,NA
+352,Data scientist,Litmus7,Kochi,,No,NA
+353,Data scientist,Crypto Mize,Delhi,Data Mining,No,NA
+354,Data scientist,METRO Global Solution Center IN,Pune,,No,NA
+355,Data scientist,Arsh Biotech,India,,No,NA
+356,Data scientist,Surya Systems,Bengaluru,Data Mining,No,No
+357,Data scientist,InitiateFirst.,Hyderabad,,No,No
+358,Data scientist,Winning Edge,Bengaluru,,No,No
+359,Data scientist,NetApp,Bengaluru,,No,No
+360,Data scientist,Business Brio,Kolkata,Machine Learning,No,No
+361,Data scientist,Spinny,Gurgaon,Data Mining,No,NA
+362,Data scientist,groww,Bengaluru,"Machine Learning, Big Data",No,NA
+363,Data scientist,IQVIA,Mumbai,,No,NA
+364,Data scientist,BigShyft,Gurgaon,Data Structure,No,NA
+365,Data scientist,Maersk,Bengaluru,,No,NA
+366,Data scientist,BIG IT JOBS,India,"Python,  R , Big Data",No,NA
+367,Data scientist,BigShyft,Gurgaon,,No,NA
+368,Data scientist,BBS,Hybrid remote in Noida,,Yes,NA
+369,Data scientist,UnitedHealthcare,Hyderabad,,No,NA
+370,Data scientist,Publicis Sapient,Bengaluru,,No,No
+371,Data scientist,JPMorgan Chase & Co,Mumbai,,No,NA
+372,Data scientist,GUVI GEEK NETWORK PRIVATE LIMITED,Chennai,,No,NA
+373,Data scientist,CSC (Corporation Service Company),Bengaluru, Sql ,No,NA
+374,Data scientist,Infor,Hyderabad,Stat,No,NA
+375,Data scientist,Tiger Analytics,Bengaluru,AI,No,NA
+376,Data scientist,QUBIT AI,Hyderabad,,No,NA
+377,Data scientist,IQVIA,Bengaluru,,No,NA
+378,Data scientist,Havas Group,Mumbai,,No,NA
+379,Data scientist,Techneplus,Bengaluru,,No,NA
+380,Data scientist,Sanofi,Hyderabad,,No,No
+381,Data scientist,Sony Electronics,Bengaluru,,No,No
+382,Data scientist,Funding Societies | Modalku Group,Remote in Bengaluru,Stat,Yes,NA
+383,Data scientist,Equifax,Mumbai,Etl,No,NA
+384,Data scientist,MSD,Pune,Dashboard,No,NA
+385,Data scientist,NeGD,Delhi,,No,NA
+386,Data scientist,Mercedes-Benz Research and Development India...,Bengaluru,,No,NA
+387,Data scientist,FinAcPlus,Hyderabad,Data Mining,No,NA
+388,Data scientist,NEAR,Bengaluru,,No,NA
+389,Data scientist,NSIGHT Consulting Group Pvt Ltd,Remote in Gurgaon,,Yes,NA
+390,Data scientist,Eoraa & Co.,New Delhi,Python,No,NA
+391,Data scientist,Directi,Mumbai,,No,No
+392,Data scientist,Ethnotech Academy,Bengaluru,"Python, Machine Learning, Deep Learning",No,NA
+393,Data scientist,Moody's,Bengaluru,,No,NA
+394,Data scientist,Lilly,Bengaluru,Machine Learning,No,NA
+395,Data scientist,Zessta,Hyderabad,Data Structure,No,NA
+396,Data scientist,Cloudare Technologies Private Limited,Remote,,Yes,NA
+397,Data scientist,Affine,Bengaluru,,No,NA
+398,Data scientist,BOEING,Bengaluru,,No,NA
+399,Data scientist,Assetmonk,India,Deployment,No,NA
+400,Data scientist,Amex,Gurgaon,"Machine Learning, Stat",No,No
+401,Data scientist,Perfect eLearning,Chennai,,No,No
+402,Data scientist,Ockenden Investments PTE LTD.,Remote in Bengaluru,,Yes,NA
+403,Data scientist,Accenture,Bengaluru,,No,NA
+404,Data scientist,Cisco Systems,Bengaluru,,No,No
+405,Data scientist,Fractal Analytics,Mumbai,Python,No,No
+406,Data scientist,Juniper Networks,Bengaluru,,No,No
+407,Data scientist,CloudMoyo,Pune,"Data Visualization, Big Data",No,No
+408,Data scientist,Risk Management Solutions,Noida,,No,NA
+409,Data scientist,Bosch Group,Bengaluru,,No,NA
+410,Data scientist,Racanaa Energy,Bengaluru,Data Mining,No,No
+411,Data scientist,Draup,Bengaluru,Machine Learning,No,NA
+412,Data scientist,HP,Bengaluru,,No,NA
+413,Data scientist,Persistent Systems,India,Python,No,No
+414,Data scientist,NICE Systems,Pune,,No,NA
+415,Data scientist,Accenture,Bengaluru,,No,No
+416,Data scientist,CognitiveCare,Remote,,Yes,NA
+417,Data scientist,Kanerika Software,Hyderabad,,No,NA
+418,Data scientist,Bosch Group,Hyderabad,,No,No
+419,Data scientist,Helius Technologies,India,,No,NA
+420,Data scientist,GSK,Bengaluru,,No,NA
+421,Data scientist,Shri Vile Parle Kelavani Mandal,Mumbai,,No,No
+422,Data scientist,Carrier,Hyderabad,,No,NA
+423,Data scientist,Baker Hughes,Mumbai,,No,NA
+424,Data scientist,UST,Hyderabad,,No,NA
+425,Data scientist,InfoDriven Solutions Pvt. Ltd.,Delhi,,No,NA
+426,Data scientist,NeoStats,Bengaluru,,No,No
+427,Data scientist,Cogoport,Mumbai,,No,NA
+428,Data scientist,Virtue Analytics,Lucknow,,No,NA
+429,Data scientist,Hemas Enterprises Private Limited,Chennai,Data Mining,No,NA
+430,Data scientist,The Modern Dimension,Bengaluru,"Machine Learning, Stat",No,NA
+431,Data scientist,Parity InfoTech Solutions Pvt. Ltd.,Anand Vihar,,No,NA
+432,Data scientist,Arista Networks,Pune,,No,NA
+433,Data scientist,DISCO,Gurgaon, Sql ,No,NA
+434,Data scientist,Philips,Hybrid remote in Pune,,Yes,NA
+435,Data scientist,Travel Centric Technology,Bengaluru, Sql ,No,NA
+436,Data scientist,Blackstraw,Chennai,"Data Visualization, Preprocessing",No,NA
+437,Data scientist,Modus ETP,Remote,,Yes,No
+438,Data scientist,Boston Consulting Group,New Delhi,,No,No
+439,Data scientist,TechieShubhdeep IT Solutions Pvt. Ltd,Gwalior,,No,NA
+440,Data scientist,BNC,Pune,,No,NA
+441,Data scientist,Kalpataru Computer Services,Mumbai,,No,No
+442,Data scientist,Miracle Software Systems,India,,No,NA
+443,Data scientist,Nexval Infotech,Kolkata,,No,No
+444,Data scientist,CereSight,Remote in India,Big Data,Yes,No
+445,Data scientist,EY,Gurgaon,Data Structure,No,NA
+446,Data scientist,ASPB Services Pvt Ltd,Chennai,Data Structure,No,NA
+447,Data scientist,Aays,Gurgaon,,No,NA
+448,Data scientist,KnowledgeHut,Remote,Stat,Yes,No
+449,Data scientist,Colgate-Palmolive,Mumbai,,No,NA
+450,Data scientist,"Tangoe US,Inc",Bengaluru,Big Data,No,No
+451,Data scientist,Microsoft,Hyderabad,,No,NA
+452,Data scientist,Motorola Solutions,Bengaluru,,No,NA
+453,Data scientist,Redgrape Business Services,Chennai,,No,NA
+454,Data scientist,Moonpreneur,Gurgaon,,No,No
+455,Data scientist,Place Technology,Jaipur,,No,NA
+456,Data scientist,Revol Process Solutions,Chennai,Machine Learning,No,No
+457,Data scientist,Sun Life,Gurgaon,,No,No
+458,Data scientist,Thermo Fisher Scientific,Bengaluru,Data Visualization,No,NA
+459,Data scientist,Ralph Lauren,Bengaluru,Etl,No,NA
+460,Data scientist,IBM,Pune,Etl,No,No
+461,Data scientist,Crypto Mize,Delhi,,No,NA
+462,Data scientist,EY,Kochi,,No,No
+463,Data scientist,PwC,Bengaluru,"Python, Machine Learning",No,NA
+464,Data scientist,"CloudPlinth, Inc.",Warangal,Data Mining,No,NA
+465,Data scientist,"Epiq Systems, Inc.",Hyderabad,,No,NA
+466,Data scientist,NMS Consultant,Delhi,Big Data,No,NA
+467,Data scientist,Chandigarh University,Mohali,,No,NA
+468,Data scientist,Supply Wisdom,Remote,,Yes,NA
+469,Data scientist,MNJ Software,Remote,,Yes,NA
+470,Data scientist,Rhinexa-IT Solutions & Services,Hyderabad,,No,NA
+471,Data scientist,Agiliad,India,,No,NA
+472,Data scientist,RELX,Remote in Chennai, Sql ,Yes,No
+473,Data scientist,Webority Technologies,Gurgaon,Python,No,NA
+474,Data scientist,Accenture,Bengaluru,Stat,No,NA
+475,Data scientist,Ameriprise India,Gurgaon,,No,NA
+476,Data scientist,Techtiera Sdn Bhd,Bengaluru,,No,No
+477,Data scientist,Zuddl,Remote,Data Structure,Yes,NA
+478,Data scientist,Microsoft,India,,No,No
+479,Data scientist,Microsoft,Bengaluru,,No,NA
+480,Data scientist,Astegic,India,Big Data,No,No
+481,Data scientist,PayPal,Chennai,"Data Mining, Stat",No,No
+482,Data scientist,fifthnote,Chandigarh,Python,No,No
+483,Data scientist,Novotech Asia,Bengaluru,,No,NA
+484,Data scientist,Capleo Global Solutions Pvt LTD,Bengaluru,Etl,No,No
+485,Data scientist,Apsidata,Noida,,No,No
+486,Data scientist,GE Healthcare,Bengaluru,,No,NA
+487,Data scientist,Recode Minds,Hyderabad,"Python, Stat",No,No
+488,Data scientist,Colgate-Palmolive,Mumbai,Deployment,No,NA
+489,Data scientist,Transorg Analytics,Gurgaon,Machine Learning,No,No
+490,Data scientist,BDIPlus,Bengaluru,,No,NA
+491,Data scientist,Proclink,Ahmedabad,"Python,  R ",No,No
+492,Data scientist,IBM,Ahmedabad,,No,NA
+493,Data scientist,Navit Software Solutions,Hyderabad,,No,NA
+494,Data scientist,Deloitte,Bengaluru,,No,No
+495,Data scientist,PwC,Bengaluru,Machine Learning,No,No
+496,Data scientist,BNC,Mumbai,,No,No
+497,Data scientist,Net Connect,Mumbai,,No,NA
+498,Data scientist,Wells Fargo,Hyderabad,,No,No
+499,Data scientist,Boston Consulting Group,Bengaluru,,No,NA
+500,Data scientist,Affine,Bengaluru,,No,NA
+501,Data scientist,Hitachi Solutions,Bengaluru,Machine Learning,No,NA
+502,Data scientist,Instem,Pune,,No,NA
+503,Data scientist,Ispeck Digital Solutions,Salt Lake,,No,No
+504,Data scientist,Virtusa,Hybrid remote in Pune,,Yes,NA
+505,Data scientist,Axis My India,Mumbai,Stat,No,NA
+506,Data scientist,Mastercard,Pune,Python,No,No
+507,Data scientist,Censius,India,Stat,No,NA
+508,Data scientist,StoneX Group,Bengaluru,Big Data,No,NA
+509,Data scientist,White Mastery Systems,Chennai,,No,NA
+510,Data scientist,Canopas,Surat,Data Structure,No,NA
+511,Data scientist,Husk Power Systems,Pune,,No,No
+512,Data scientist,Certara,Secunderabad," R , Stat",No,NA
+513,Data scientist,Dream Sports Group,Mumbai,,No,No
+514,Data scientist,Tokopedia,Hyderabad,,No,NA
+515,Data scientist,Sanskruti Solutions,Powai,,No,NA
+516,Data scientist,Manuh Solutions,Bengaluru,,No,NA
+517,Data scientist,Vizva Pvt Ltd,Ahmedabad,,No,NA
+518,Data scientist,Capgemini Engineering,Chennai,,No,NA
+519,Data scientist,Kanerika Software,Hyderabad,,No,NA
+520,Data scientist,Wangoes Technologies,Indore,,No,NA
+521,Data scientist,AiDash,Bengaluru,,No,NA
+522,Data scientist,Citi,Chennai,,No,NA
+523,Data scientist,SenRa Tech,Delhi,,No,NA
+524,Data scientist,Stats Perform,India,Machine Learning,No,NA
+525,Data scientist,ANB Global,Andheri,,No,No
+526,Data scientist,Infor,Hyderabad,,No,NA
+527,Data scientist,Intuit,Bengaluru,,No,No
+528,Data scientist,iTDAY India,Remote in Bengaluru,,Yes,NA
+529,Data scientist,Tridiagonal Solutions,Pune,,No,NA
+530,Data scientist,ITOrizon,Bengaluru,,No,NA
+531,Data scientist,SatSure Analytics India,Bengaluru,Preprocessing,No,NA
+532,Data scientist,String Bio,Bengaluru,Data Visualization,No,No
+533,Data scientist,SRM Technologies,Chennai,,No,NA
+534,Data scientist,Truecaller,Bengaluru,,No,NA
+535,Data scientist,Greentech Environ Management Pvt. Ltd,Kolkata,,No,NA
+536,Data scientist,Genzeon India,Pune,"Python, Stat",No,No
+537,Data scientist,"Magus Infotech India Pvt. Ltd.,",Navi Mumbai,Python,No,NA
+538,Data scientist,Convera,Remote in Pune,,Yes,NA
+539,Data scientist,mPower Software Services,Bengaluru,,No,NA
+540,Data scientist,SIGMOID,Bengaluru,,No,No
+541,Data scientist,KPC Medical College & Hospital,Jadavpur,,No,NA
+542,Data scientist,Ather Energy,Bengaluru,,No,NA
+543,Data scientist,The White Willow,Vadodara,,No,NA
+544,Data scientist,Accenture,Mumbai,,No,NA
+545,Data scientist,KnowDis,New Delhi,"Python, Machine Learning",No,No
+546,Data scientist,"Council on Energy, Environment and Water",New Delhi,"Python, Stat",No,No
+547,Data scientist,Bristol Myers Squibb,Hyderabad,,No,NA
+548,Data scientist,Maruti Suzuki India Ltd,Gurgaon,,No,NA
+549,Data scientist,NetConnect Private Limited,Bengaluru,,No,NA
+550,Data scientist,Marktine Technology Solutions,Remote,,Yes,No
+551,Data scientist,HiringCruise Pvt. Ltd.,New Delhi,Preprocessing,No,No
+552,Data scientist,Novartis,Hyderabad District,"Data Structure, Stat",No,No
+553,Data scientist,Pragra,Remote in Noida,,Yes,NA
+554,Data scientist,Great Data Solutions India P Ltd,Hyderabad,,No,NA
+555,Data scientist,d-Matrix,Remote,"Python, Data Structure",Yes,NA
+556,Data scientist,Servilink System,Vadodara,,No,NA
+557,Data scientist,Globals Inc.,Bengaluru,,No,NA
+558,Data scientist,Publicis Sapient,Gurgaon,,No,NA
+559,Data scientist,Datafoundry,Bengaluru,,No,NA
+560,Data scientist,Galytix,Gurgaon,,No,No
+561,Data scientist,BigShyft,Bengaluru,Data Structure,No,NA
+562,Data scientist,Torm,Mumbai,,No,NA
+563,Data scientist,Accenture,India,,No,No
+564,Data scientist,Tanla Solutions,Madhapur,,No,No
+565,Data scientist,Quidich innovation Labs,Mumbai,,No,NA
+566,Data scientist,TIAA,Pune,Data Mining,No,NA
+567,Data scientist,Stylumia Intelligence Technology,Bengaluru,,No,NA
+568,Data scientist,Boston Consulting Group,Bengaluru,,No,NA
+569,Data scientist,Intercax,Remote,,Yes,NA
+570,Data scientist,Kyndryl,Bengaluru,,No,No
+571,Data scientist,ADCI - BLR - DTA,Bengaluru,Stat,No,No
+572,Data scientist,Dun & Bradstreet,Remote in Hyderabad,,Yes,NA
+573,Data scientist,Colgate-Palmolive,Mumbai,,No,NA
+574,Data scientist,Eaton,Pune,,No,No
+575,Data scientist,BMB Group,Remote,,Yes,No
+576,Data scientist,Ford Motor Company,Chennai, Sql ,No,NA
+577,Data scientist,Siemens Gamesa Renewable Energy,Bengaluru,,No,NA
+578,Data scientist,BTree Research Services,Nagercoil,"Data Mining, Stat",No,No
+579,Data scientist,Helius Technologies,Remote in India,Big Data,Yes,No
+580,Data scientist,IQVIA,Bengaluru,,No,NA
+581,Data scientist,GEEKRABIT PRIVATE LIMITED,Mumbai,Etl,No,NA
+582,Data scientist,iTDAY India,Bengaluru,Data Mining,No,No
+583,Data scientist,Codvo.ai,Remote,,Yes,NA
+584,Data scientist,Precognitas Health,Delhi,,No,NA
+585,Data scientist,Baker Hughes,Mumbai,,No,No
+586,Data scientist,PTS Consulting Services,Kolkata,"Data Visualization, Data Mining",No,NA
+587,Data scientist,Nathan Research,Chennai,Stat,No,NA
+588,Data scientist,Boston Consulting Group,New Delhi,,No,No
+589,Data scientist,Risk Management Solutions (RMS),Noida,,No,NA
+590,Data scientist,PwC,Bengaluru,,No,NA
+591,Data scientist,Blackbuck,Bengaluru,,No,NA
+592,Data scientist,Astrotech India,Nagpur,,No,NA
+593,Data scientist,visionyle solutions,Remote,,Yes,NA
+594,Data scientist,FactSet Research Systems,Hyderabad, Sql ,No,No
+595,Data scientist,Gnani Innovations,Bengaluru,,No,No
+596,Data scientist,Hilabs,Bengaluru,,No,NA
+597,Data scientist,Intercontinental Exchange,Remote in Hyderabad,Stat,Yes,NA
+598,Data scientist,Publicis Sapient,Bengaluru,Preprocessing,No,NA
+599,Data scientist,Shri Vile Parle Kelavani Mandal,Mumbai,,No,NA
+600,Data scientist,Black & White Business Solutions,Bengaluru,,No,NA
+601,Data scientist,Bosch Group,Bengaluru,Python,No,NA
+602,Data scientist,Mayabious Art,Kolkata,,No,NA
+603,Data scientist,Technovert,Hyderabad,Data Mining,No,No
+604,Data scientist,Tata Insights and Quants,Mumbai,"Python, Stat",No,No
+605,Data scientist,Azimetry Solution Pvt. Ldt,Bhubaneshwar,,No,NA
+606,Data scientist,Bristol Myers Squibb,Hyderabad,,No,NA
+607,Data scientist,Mango Sciences,Bengaluru,,No,No
+608,Data scientist,Accenture,Bengaluru,,No,NA
+609,Data scientist,Mindpool TECHN0L0GY,Pune,,No,NA
+610,Data scientist,Life Technologies,Delhi,,No,NA
+611,Data scientist,SuperLabs,Coimbatore,,No,NA
+612,Data scientist,A5 Labs,Remote,Python,Yes,No
+613,Data scientist,Valiance Solutions,Remote in Noida,,Yes,NA
+614,Data scientist,Parati,Remote in Haryana,,Yes,NA
+615,Data scientist,Synopsys,Hyderabad,,No,No
+616,Data scientist,Business Brio,Kolkata,,No,NA
+617,Data scientist,Mercedes-Benz Research and Development India...,Bengaluru,Python,No,NA
+618,Data scientist,Pluto7,Remote,Data Visualization,Yes,NA
+619,Data scientist,Findability Sciences,India,,No,No
+620,Data scientist,Spark TG,Gautam Budh Nagar,,No,NA
+621,Data scientist,Autodesk,Bengaluru,,No,No
+622,Data scientist,Goalreify,Bengaluru,Stat,No,NA
+623,Data scientist,Prajosh technologies,Hyderabad,,No,No
+624,Data scientist,Nissan,Thiruvananthapuram,Etl,No,No
+625,Data scientist,PwC,Bengaluru,Machine Learning,No,No
+626,Data scientist,Boston Consulting Group,Bengaluru,,No,NA
+627,Data scientist,Zelis,Hyderabad,"Machine Learning, Stat, Artificial Intelligence",No,NA
+628,Data scientist,Avery Dennison,Pune,,No,NA
+629,Data scientist,MABZONE TECHNOLOGIES PRIVATE LIMITED,Mohali,,No,NA
+630,Data scientist,Smart Ship,Pune,,No,NA
+631,Data scientist,CityLink Technology Solutions,Pune,,No,No
+632,Data scientist,Talentica Software India,Pune,Machine Learning,No,NA
+633,Data scientist,Tier5 Technology Solutions Pvt. Ltd,Kolkata,,No,NA
+634,Data scientist,DataEconomy,Hyderabad,Data Mining,No,No
+635,Data scientist,Saven Technologies,Hyderabad,,No,No
+636,Data scientist,ACE Talent Consulting,Bengaluru,"Python, Machine Learning, AI",No,NA
+637,Data scientist,Unicoder,Bengaluru,Python,No,NA
+638,Data scientist,HERE AND NOW - The French Institute,Chennai,,No,NA
+639,Data scientist,Trinity Life Sciences,Bengaluru,,No,No
+640,Data scientist,ValueAdd Research & Analytics Solutions,Bengaluru,,No,NA
+641,Data scientist,Awapal Solutions,Remote in Noida,,Yes,NA
+642,Data scientist,Mercedes-Benz Research and Development India...,Bengaluru,Python,No,NA
+643,Data scientist,IBM,Bengaluru,,No,NA
+644,Data scientist,Citi,Chennai,,No,NA
+645,Data scientist,EY,Kochi,"Python, Machine Learning,  R ",No,No
+646,Data scientist,Coolboots Media Pvt Ltd,Gurgaon,,No,NA
+647,Data scientist,Etraveli Group,Pune,,No,No
+648,Data scientist,Publicis Sapient,Bengaluru,,No,NA
+649,Data scientist,Ultimez,Hubli,,No,NA
+650,Data scientist,Mercedes-Benz Research and Development India...,Bengaluru,Big Data,No,NA
+651,Data scientist,Sciera,Chennai,"Data Mining, Stat",No,No
+652,Data scientist,PwC,Bengaluru,Machine Learning,No,No
+653,Data scientist,mobio solutions,Remote,"Data Mining, Stat",Yes,NA
+654,Data scientist,Aveva,Hyderabad,,No,NA
+655,Data scientist,KAS Group Asia (KGA),Gurgaon,Dashboard,No,NA
+656,Data scientist,Evermore Industries India Private Ltd.,Chennai,,No,NA
+657,Data scientist,Recruise India Consulting Pvt Ltd,Chennai,,No,NA
+658,Data scientist,Tredence,India,,No,NA
+659,Data scientist,Siemens,Bengaluru,,No,NA
+660,Data scientist,"Kennametal, Inc.",Bengaluru,,No,NA
+661,Data scientist,Tecnolynx,Hyderabad,Python,No,NA
+662,Data scientist,Sciffer,Baner,,No,NA
+663,Data scientist,Decision Point,Gurgaon,,No,No
+664,Data scientist,Intercontinental Exchange,Remote in Hyderabad,,Yes,NA
+665,Data scientist,AiRo Digital Labs,Remote in Gurgaon,Data Visualization,Yes,No
+666,Data scientist,The Ballot House,Jaipur,"Python, Stat",No,No
+667,Data scientist,cocentrus,Gurgaon,,No,NA
+668,Data scientist,Boston Consulting Group,New Delhi,,No,No
+669,Data scientist,NetApp,Bengaluru,Python,No,No
+670,Data scientist,Boston Consulting Group,New Delhi,,No,No
+671,Data scientist,Publicis Sapient,Bengaluru,,No,NA
+672,Data scientist,Convera,Remote in Pune,,Yes,No
+673,Data scientist,Convera,Pune,,No,No
+674,Data scientist,Boston Consulting Group,New Delhi,,No,NA
+675,Data scientist,Bristol Myers Squibb,Hyderabad,,No,NA
