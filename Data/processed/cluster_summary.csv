@@ -1,0 +1,11 @@
+cluster,number_of_jobs,percentage_of_jobs,top_skills
+0,46,8.03,"database (100.0%), sql (10.9%), data_mining (6.5%)"
+1,57,9.95,"stat (100.0%), deep_learning (3.5%), nlp (3.5%)"
+2,64,11.17,"python (100.0%), stat (17.2%), r (15.6%)"
+3,29,5.06,"data_structure (100.0%), database (6.9%), etl (6.9%)"
+4,46,8.03,"ai (100.0%), deep_learning (10.9%), neural_network (8.7%)"
+5,58,10.12,"machine_learning (100.0%), stat (19.0%), python (15.5%)"
+6,51,8.9,"data_mining (100.0%), stat (17.6%), big_data (5.9%)"
+7,55,9.6,"data_visualization (100.0%), tableau (14.5%), stat (14.5%)"
+8,33,5.76,"excel (100.0%), python (9.1%), stat (6.1%)"
+9,134,23.39,"big_data (16.4%), deep_learning (15.7%), etl (14.2%)"
