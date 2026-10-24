@@ -17,3 +17,7 @@ dist/
 build/
 .venv/
 venv/
+
+# Archives
+*.zip
+*.tar.gz
